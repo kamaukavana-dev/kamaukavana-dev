@@ -1,5 +1,5 @@
 
-##🌌 About Me# 🚀 **Daniel Maina Kamau** — Aspiring Full-Stack Engineer & AI Enthusiast
+##🌌 About Me 🚀 **Daniel Maina ** — Aspiring Full-Stack Engineer & AI Enthusiast
 
 <div align="center">
 
@@ -10,12 +10,32 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Daniel+Maina+Kamau&descSize=24&descAlignY=75" />
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn" />
+Python: ![Python](https://img.shields.io/badge/Python-80%25-blue)
+JavaScript: ![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow)
+React: ![React](https://img.shields.io/badge/React-40%25-61DAFB)
+<div align="center">
+  <h4>🕒 Live Stats (Simulated)</h4>
+
+  <!-- Local Time Badge (static example, can be automated via GitHub Actions) -->
+  ![Local Time](https://img.shields.io/badge/Local_Time-🕒_Africa%2FNairobi-00FFFF?style=for-the-badge&logo=clock)
+
+  <!-- Availability Status Badge -->
+  ![Status](https://img.shields.io/badge/Status-🟢_Available-00FF00?style=for-the-badge)
+
+  <!-- GitHub Stats -->
+  ![Commits](https://img.shields.io/github/commit-activity/m/kamaukavana-dev?style=for-the-badge&color=0FF7FF)
+  ![Followers](https://img.shields.io/github/followers/kamaukavana-dev?style=for-the-badge&color=00FFFF)
+
+  <br><em>Updated periodically via GitHub Actions</em>
+</div>
+
 
 ---
 
 ```javascript
 const aspiringEngineer = {
-  identity: "Daniel Maina Kamau",
+  identity: "Daniel Maina ",
   title: "Aspiring Full-Stack Developer & AI Enthusiast",
   location: "Nairobi, Kenya",
   education: "Computer Science Student",
@@ -37,16 +57,16 @@ const aspiringEngineer = {
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,go,rust,kotlin,swift,ruby,php,dart,r,solidity,matlab" />
 <img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,django,flask,spring,tailwind,threejs" />
 </div>
-
 ### 🏆 Language Proficiency Matrix
 
-| Strong Proficiency                                                                                                         | Intermediate                                                                                                                     | Learning Actively                                                                                                   | Exploring                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| ![Python](https://img.shields.io/badge/Python-Strong-3776AB?logo=python\&logoColor=white\&style=for-the-badge)             | ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?logo=typescript\&logoColor=white\&style=for-the-badge) | ![C](https://img.shields.io/badge/C-Learning-A8B9CC?logo=c\&logoColor=black\&style=for-the-badge)                   | ![Rust](https://img.shields.io/badge/Rust-Exploring-000000?logo=rust\&logoColor=white\&style=for-the-badge)             |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-Strong-F7DF1E?logo=javascript\&logoColor=black\&style=for-the-badge) | ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%252B%252B\&logoColor=white\&style=for-the-badge)              | ![Ruby](https://img.shields.io/badge/Ruby-Learning-CC342D?logo=ruby\&logoColor=white\&style=for-the-badge)          | ![Go](https://img.shields.io/badge/Go-Exploring-00ADD8?logo=go\&logoColor=white\&style=for-the-badge)                   |
-| ![Java](https://img.shields.io/badge/Java-Strong-007396?logo=java\&logoColor=white\&style=for-the-badge)                   | ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-7F52FF?logo=kotlin\&logoColor=white\&style=for-the-badge)             | ![Swift](https://img.shields.io/badge/Swift-Learning-FA7343?logo=swift\&logoColor=white\&style=for-the-badge)       | ![Dart](https://img.shields.io/badge/Dart-Exploring-0175C2?logo=dart\&logoColor=white\&style=for-the-badge)             |
-| ![HTML5](https://img.shields.io/badge/HTML5-Strong-E34F26?logo=html5\&logoColor=white\&style=for-the-badge)                | ![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?logo=php\&logoColor=white\&style=for-the-badge)                      | ![Shell](https://img.shields.io/badge/Shell-Learning-4EAA25?logo=gnu-bash\&logoColor=white\&style=for-the-badge)    | ![R](https://img.shields.io/badge/R-Exploring-276DC3?logo=r\&logoColor=white\&style=for-the-badge)                      |
-| ![CSS3](https://img.shields.io/badge/CSS3-Strong-1572B6?logo=css3\&logoColor=white\&style=for-the-badge)                   | ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=mysql\&logoColor=white\&style=for-the-badge)                    | ![MATLAB](https://img.shields.io/badge/MATLAB-Learning-0076A8?logo=mathworks\&logoColor=white\&style=for-the-badge) | ![Solidity](https://img.shields.io/badge/Solidity-Exploring-363636?logo=solidity\&logoColor=white\&style=for-the-badge) |
+| Strong Proficiency | Intermediate | Learning Actively | Exploring |
+|------------------|-------------|-----------------|-----------|
+| ![Python](https://img.shields.io/badge/Python-Strong-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=000) | ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=000) | ![C](https://img.shields.io/badge/C-Learning-A8B9CC?logo=c&logoColor=black&style=for-the-badge&labelColor=000) | ![Rust](https://img.shields.io/badge/Rust-Exploring-000000?logo=rust&logoColor=white&style=for-the-badge&labelColor=000) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Strong-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=000) | ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge&labelColor=000) | ![Ruby](https://img.shields.io/badge/Ruby-Learning-CC342D?logo=ruby&logoColor=white&style=for-the-badge&labelColor=000) | ![Go](https://img.shields.io/badge/Go-Exploring-00ADD8?logo=go&logoColor=white&style=for-the-badge&labelColor=000) |
+| ![Java](https://img.shields.io/badge/Java-Strong-007396?logo=java&logoColor=white&style=for-the-badge&labelColor=000) | ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge&labelColor=000) | ![Swift](https://img.shields.io/badge/Swift-Learning-FA7343?logo=swift&logoColor=white&style=for-the-badge&labelColor=000) | ![Dart](https://img.shields.io/badge/Dart-Exploring-0175C2?logo=dart&logoColor=white&style=for-the-badge&labelColor=000) |
+| ![HTML5](https://img.shields.io/badge/HTML5-Strong-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=000) | ![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?logo=php&logoColor=white&style=for-the-badge&labelColor=000) | ![Shell](https://img.shields.io/badge/Shell-Learning-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge&labelColor=000) | ![R](https://img.shields.io/badge/R-Exploring-276DC3?logo=r&logoColor=white&style=for-the-badge&labelColor=000) |
+| ![CSS3](https://img.shields.io/badge/CSS3-Strong-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=000) | ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=000) | ![MATLAB](https://img.shields.io/badge/MATLAB-Learning-0076A8?logo=mathworks&logoColor=white&style=for-the-badge&labelColor=000) | ![Solidity](https://img.shields.io/badge/Solidity-Exploring-363636?logo=solidity&logoColor=white&style=for-the-badge&labelColor=000) |
+
 
 ---
 
@@ -201,7 +221,7 @@ fi
 echo "✅ Setup complete! Happy coding! 🎉"
 ```
 
-## 🌟 2024 Learning Goals
+## 🌟 2025 Learning Goals
 
 | Goal                        | Description                              |
 | --------------------------- | ---------------------------------------- |
@@ -238,23 +258,30 @@ Looking For:
 <br>🔗 Let's Learn and Build Together!<br>
 Always open to learning, collaborating, and growing as a developer.<br><br>
 
-© 2024 Daniel Maina Kamau | Aspiring Full-Stack Developer<br>
-Nairobi, Kenya | kavana.daniel1@gmail.com<br><br>
+## 🎯 Quick Navigation
+
+<div align="center">
+
+[🏠 Top](#-daniel-main-a-kamau--aspiring-full-stack-engineer--ai-enthusiast) •
+[👨‍💻 About](#-about-me) •
+[💻 Skills](#-programming-language-journey--20-languages) •
+[📊 Stats](#-github-analytics-dashboard) •
+[🚀 Projects](#-featured-project-showcase) •
+[📈 Goals](#-development-metrics--goals) •
+[📱 Contact](#-connect--collaborate) •
+[🛠️ Setup](#-development-commands--setup)
+
+</div>
+
+
+© 2024 Daniel Maina  | Aspiring Full-Stack Developer  
+Nairobi, Kenya | kavana.daniel1@gmail.com
+
 
 <img src="https://img.shields.io/badge/VIEW_SOURCE-000000?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
-🎯 Quick Navigation
-<div align="center">
-[🏠 Top](#top) •
-[👨‍💻 About](#about-me) •
-[💻 Skills](#skills) •
-[📊 Stats](#github-analytics-dashboard) •
-[🚀 Projects](#featured-project-showcase) •
-[📈 Goals](#learning-goals) •
-[📱 Contact](#connect--collaborate) •
-[🛠️ Setup](#development-commands--setup)
-</div>
+
 
 ```
 
