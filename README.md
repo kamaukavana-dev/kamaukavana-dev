@@ -1,5 +1,5 @@
 
-##🌌 About Me 🚀 "DANIEL MAINA" — Aspiring Full-Stack Engineer & AI Enthusiast 
+##🌌 About Me 🚀🚀🚀 "DANIEL MAINA" — ASPRING FULL-STACK ENGINEER , CLOUD ANALYST $ AI ENTHUSIAST 
 
 <div align="center">
 
@@ -106,18 +106,19 @@ const aspiringEngineer = {
 ## 🌀 Tech Ecosystem Visualizations
 
 <div align="center">
-<!-- Contribution Snake (still works) -->
+<!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 <em>Daily Coding Contributions</em>
 
-<!-- GitHub Streak Stats (replacement for Activity Graph) -->
+<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Streak" />
 <em>Contribution Streak / Activity Pattern</em>
 
-<!-- Top Languages (verified working) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaukavana-dev&layout=compact&langs_count=12&theme=tokyonight" width="800" alt="Top Languages" />
+<!-- Top Languages (working mirror) -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kamaukavana-dev&layout=compact&langs_count=12&theme=tokyonight" width="800" alt="Top Languages" />
 <em>Language Distribution</em>
 </div>
+
 
 
 ---
