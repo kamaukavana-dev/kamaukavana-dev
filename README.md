@@ -75,7 +75,7 @@ const aspiringEngineer = {
 <tr>
 <td align="center">
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=kamaukavana-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=kamaukavana-dev&show_icons=true&theme=tokyonight" width="400" />
 <br><em>Development Analytics</em>
 </td>
 <td align="center">
