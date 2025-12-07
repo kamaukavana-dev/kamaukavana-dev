@@ -1,4 +1,17 @@
-## 🌌 About Me — The Future Engineer
+
+##🌌 About Me# 🚀 **Daniel Maina Kamau** — Aspiring Full-Stack Engineer & AI Enthusiast
+
+<div align="center">
+
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&height=100&lines=🚀+Aspiring+Full-Stack+Developer;🤖+AI+%26+Automation+Enthusiast;💻+Polyglot+Programmer;🎯+Problem+Solver;🔥+Always+Learning" alt="Animated Typing Header" />
+
+<!-- Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Daniel+Maina+Kamau&descSize=24&descAlignY=75" />
+
+</div>
+
+---
 
 ```javascript
 const aspiringEngineer = {
@@ -60,6 +73,12 @@ const aspiringEngineer = {
 </table>
 </div>
 
+📈 Growth & Learning Analytics  
+🌟 GitHub Contribution Chart  
+<img src="https://ghchart.rshah.org/00F7FF/kamaukavana-dev" alt="GitHub Contribution Chart" width="800" />  
+<div><em>Yearly Contribution Pattern</em></div>
+
+
 ---
 
 ## 🌀 Tech Ecosystem Visualizations
@@ -92,6 +111,13 @@ const aspiringEngineer = {
 | Learning Projects    | Various Technologies  | [Explore](#)        | [GitHub](https://github.com/kamaukavana-dev)                      |
 
 ---
+| Platform  | Details                     | Purpose                        |
+|----------|-----------------------------|--------------------------------|
+| Email    | kavana.daniel1@gmail.com     | Professional inquiries         |
+| Portfolio| kamaukavana-dev.github.io    | Project showcase               |
+| LinkedIn | Daniel Kamau                 | Professional networking        |
+| GitHub   | kamaukavana-dev              | Code & collaboration           |
+
 
 ## 🎨 Tech Architecture & Skills
 
@@ -187,6 +213,12 @@ echo "✅ Setup complete! Happy coding! 🎉"
 | 🎓 Complete CS Fundamentals | Build strong computer science foundation |
 
 ---
+📊 Profile Analytics
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&color=00ffff&style=flat-square&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/kamaukavana-dev?color=00ffff&label=FOLLOWERS&style=flat-square" /> <img src="https://img.shields.io/github/stars/kamaukavana-dev?color=00ffff&label=TOTAL+STARS&style=flat-square" /> <img src="https://img.shields.io/github/last-commit/kamaukavana-dev/kamaukavana-dev?color=00ffff&label=PROFILE+UPDATED&style=flat-square" /> </div>
+
+🌟 Skill Development Visualizations
+<div align="center"><!-- Animated Icons --><div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="margin: 10px;" /> </div>
+<!-- Learning Progress --><div align="center"> <h3>📈 Learning Progress Tracker</h3> <p><strong>Python:</strong> ▰▰▰▰▰▰▰▰▱▱ 80%</p> <p><strong>JavaScript:</strong> ▰▰▰▰▰▰▱▱▱▱ 60%</p> <p><strong>Web Development:</strong> ▰▰▰▰▰▰▰▱▱▱ 70%</p> <p><strong>Git/GitHub:</strong> ▰▰▰▰▰▰▰▰▱▱ 80%</p> </div></div>
 
 ## 🌌 My Coding Philosophy
 
@@ -203,8 +235,27 @@ Looking For:
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn&reversal=true" />
-<br>🔗 Let's Learn and Build Together!  
-© 2024 Daniel Maina Kamau | Aspiring Full-Stack Developer | Nairobi, Kenya
+<br>🔗 Let's Learn and Build Together!<br>
+Always open to learning, collaborating, and growing as a developer.<br><br>
+
+© 2024 Daniel Maina Kamau | Aspiring Full-Stack Developer<br>
+Nairobi, Kenya | kavana.daniel1@gmail.com<br><br>
+
+<img src="https://img.shields.io/badge/VIEW_SOURCE-000000?style=for-the-badge&logo=github&logoColor=white" />
+
 </div>
+🎯 Quick Navigation
+<div align="center">
+[🏠 Top](#top) •
+[👨‍💻 About](#about-me) •
+[💻 Skills](#skills) •
+[📊 Stats](#github-analytics-dashboard) •
+[🚀 Projects](#featured-project-showcase) •
+[📈 Goals](#learning-goals) •
+[📱 Contact](#connect--collaborate) •
+[🛠️ Setup](#development-commands--setup)
+</div>
+
 ```
+
 
