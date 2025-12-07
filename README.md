@@ -1,5 +1,5 @@
 
-##🌌 About Me 🚀 **Daniel Maina ** — Aspiring Full-Stack Engineer & AI Enthusiast
+##🌌 About Me 🚀 "DANIEL MAINA" — Aspiring Full-Stack Engineer & AI Enthusiast 
 
 <div align="center">
 
@@ -7,13 +7,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&height=100&lines=🚀+Aspiring+Full-Stack+Developer;🤖+AI+%26+Automation+Enthusiast;💻+Polyglot+Programmer;🎯+Problem+Solver;🔥+Always+Learning" alt="Animated Typing Header" />
 
 <!-- Animated Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Daniel+Maina+Kamau&descSize=24&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Daniel+Maina&descSize=24&descAlignY=75" />
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn" />
-Python: ![Python](https://img.shields.io/badge/Python-80%25-blue)
-JavaScript: ![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow)
-React: ![React](https://img.shields.io/badge/React-40%25-61DAFB)
 <div align="center">
   <h4>🕒 Live Stats (Simulated)</h4>
 
@@ -72,26 +69,31 @@ const aspiringEngineer = {
 
 ## 🚀 GitHub Analytics Dashboard
 
+
 <div align="center">
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kamaukavana-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="400" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=kamaukavana-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
 <br><em>Development Analytics</em>
 </td>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kamaukavana-dev&theme=tokyonight&hide_border=true&background=0D1117&dates=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="400" />
+<!-- GitHub Streak Stats (Stable Alternative) -->
+<img src="https://streak-stats.demolab.com?user=kamaukavana-dev&theme=dark&hide_border=true" width="400" />
 <br><em>Contribution Streak</em>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kamaukavana-dev&theme=onedark&row=2&column=4&no-frame=true&margin-w=20&margin-h=20" width="100%" />
-<br><em>Achievement Trophies</em>
+<!-- GitHub Trophy Alternative -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamaukavana-dev&theme=tokyonight" width="100%" />
+<br><em>Profile Overview & Achievements</em>
 </td>
 </tr>
 </table>
 </div>
+
 
 📈 Growth & Learning Analytics  
 🌟 GitHub Contribution Chart  
@@ -104,20 +106,19 @@ const aspiringEngineer = {
 ## 🌀 Tech Ecosystem Visualizations
 
 <div align="center">
-<!-- Contribution Snake -->
+<!-- Contribution Snake (still works) -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 <em>Daily Coding Contributions</em>
 
-<!-- Activity Graph -->
+<!-- GitHub Streak Stats (replacement for Activity Graph) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Streak" />
+<em>Contribution Streak / Activity Pattern</em>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=kamaukavana-dev&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00ffff&line=00ffff&point=ffffff&radius=8" width="100%" alt="Activity Graph" />
-<em>Hourly Activity Pattern</em>
-
-<!-- Language Usage Graph -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaukavana-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=12" width="800" alt="Top Languages" />
+<!-- Top Languages (verified working) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaukavana-dev&layout=compact&langs_count=12&theme=tokyonight" width="800" alt="Top Languages" />
 <em>Language Distribution</em>
 </div>
+
 
 ---
 
@@ -131,12 +132,12 @@ const aspiringEngineer = {
 | Learning Projects    | Various Technologies  | [Explore](#)        | [GitHub](https://github.com/kamaukavana-dev)                      |
 
 ---
-| Platform  | Details                     | Purpose                        |
-|----------|-----------------------------|--------------------------------|
-| Email    | kavana.daniel1@gmail.com     | Professional inquiries         |
-| Portfolio| kamaukavana-dev.github.io    | Project showcase               |
-| LinkedIn | Daniel Kamau                 | Professional networking        |
-| GitHub   | kamaukavana-dev              | Code & collaboration           |
+| Platform  | Details                                             | Purpose                        |
+|----------|----------------------------------------------------|--------------------------------|
+| Email    | [kavana.daniel1@gmail.com](mailto:kavana.daniel1@gmail.com) | Professional inquiries         |
+| Portfolio| [kamaukavana-dev.github.io](https://kamaukavana-dev.github.io) | Project showcase               |
+| LinkedIn | [Daniel Kamau](https://www.linkedin.com/in/daniel-kamau-ab9631389) | Professional networking        |
+| GitHub   | [kamaukavana-dev](https://github.com/kamaukavana-dev) | Code & collaboration           |
 
 
 ## 🎨 Tech Architecture & Skills
