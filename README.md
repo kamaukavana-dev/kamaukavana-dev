@@ -1,112 +1,232 @@
-# 🌌 Daniel Maina Kamau — kamaukavana-dev (Ultimate Premium Version)
+
+````markdown
+# 🚀 Daniel Maina Kamau — Aspiring Full-Stack Engineer & AI Enthusiast
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=5000&color=00F7FF&width=1200&lines=Full-Stack+Engineer;AI+Tools+%26+Automation;Professional+Portfolio+Showcase;Mastery+Driven+%7C+Execution+Focused" />
+
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&height=100&lines=🚀+Aspiring+Full-Stack+Developer;🤖+AI+%26+Automation+Enthusiast;💻+Polyglot+Programmer;🎯+Problem+Solver;🔥+Always+Learning" alt="Animated Typing Header" />
+
+<!-- Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Daniel+Maina+Kamau&descSize=24&descAlignY=75" />
+
 </div>
 
 ---
 
-## 🌐 Cyberpunk Glowing Header
+## 🌌 About Me — The Future Engineer
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ronniedroid/animated-avatars/master/avatars/2.gif" width="200" style="border-radius:20px; box-shadow: 0 10px 40px rgba(0,255,255,0.5);" />
-  <h1 style="color:#00ffff; text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 20px #00ffff;">Daniel Maina Kamau</h1>
-  <p style="color:#ffffff; font-size:18px; max-width:800px;">Full-Stack Engineer | AI & Automation | Creating scalable, efficient, and high-performance software systems. Passionate about learning and excellence.</p>
+
+```javascript
+const aspiringEngineer = {
+  identity: "Daniel Maina Kamau",
+  title: "Aspiring Full-Stack Developer & AI Enthusiast",
+  location: "Nairobi, Kenya",
+  education: "Computer Science Student",
+  philosophy: "Build, Learn, Iterate, Improve",
+  specialties: [
+    "Web Development",
+    "AI & Automation Projects",
+    "Problem Solving",
+    "Continuous Learning",
+    "Clean Code Practices"
+  ],
+  status: "Building my skills, one project at a time"
+};
+````
+
 </div>
 
 ---
 
-## 🧩 Interactive 3D Skill Rings
+## 🎮 Programming Language Journey — 20+ Languages
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/3d-cube.gif" width="300" />
-  <p>Hover-effect 3D rotation showing your main tech stack (Python, JS, React, Vue, Node.js).</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,go,rust,kotlin,swift,ruby,php,dart,r,solidity,matlab" />
+<img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,django,flask,spring,tailwind,threejs" />
+</div>
+
+### 🏆 Language Proficiency Matrix
+
+| Strong Proficiency                                                                                                         | Intermediate                                                                                                                     | Learning Actively                                                                                                   | Exploring                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| ![Python](https://img.shields.io/badge/Python-Strong-3776AB?logo=python\&logoColor=white\&style=for-the-badge)             | ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?logo=typescript\&logoColor=white\&style=for-the-badge) | ![C](https://img.shields.io/badge/C-Learning-A8B9CC?logo=c\&logoColor=black\&style=for-the-badge)                   | ![Rust](https://img.shields.io/badge/Rust-Exploring-000000?logo=rust\&logoColor=white\&style=for-the-badge)             |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Strong-F7DF1E?logo=javascript\&logoColor=black\&style=for-the-badge) | ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%252B%252B\&logoColor=white\&style=for-the-badge)              | ![Ruby](https://img.shields.io/badge/Ruby-Learning-CC342D?logo=ruby\&logoColor=white\&style=for-the-badge)          | ![Go](https://img.shields.io/badge/Go-Exploring-00ADD8?logo=go\&logoColor=white\&style=for-the-badge)                   |
+| ![Java](https://img.shields.io/badge/Java-Strong-007396?logo=java\&logoColor=white\&style=for-the-badge)                   | ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-7F52FF?logo=kotlin\&logoColor=white\&style=for-the-badge)             | ![Swift](https://img.shields.io/badge/Swift-Learning-FA7343?logo=swift\&logoColor=white\&style=for-the-badge)       | ![Dart](https://img.shields.io/badge/Dart-Exploring-0175C2?logo=dart\&logoColor=white\&style=for-the-badge)             |
+| ![HTML5](https://img.shields.io/badge/HTML5-Strong-E34F26?logo=html5\&logoColor=white\&style=for-the-badge)                | ![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?logo=php\&logoColor=white\&style=for-the-badge)                      | ![Shell](https://img.shields.io/badge/Shell-Learning-4EAA25?logo=gnu-bash\&logoColor=white\&style=for-the-badge)    | ![R](https://img.shields.io/badge/R-Exploring-276DC3?logo=r\&logoColor=white\&style=for-the-badge)                      |
+| ![CSS3](https://img.shields.io/badge/CSS3-Strong-1572B6?logo=css3\&logoColor=white\&style=for-the-badge)                   | ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=mysql\&logoColor=white\&style=for-the-badge)                    | ![MATLAB](https://img.shields.io/badge/MATLAB-Learning-0076A8?logo=mathworks\&logoColor=white\&style=for-the-badge) | ![Solidity](https://img.shields.io/badge/Solidity-Exploring-363636?logo=solidity\&logoColor=white\&style=for-the-badge) |
+
+---
+
+## 🚀 GitHub Analytics Dashboard
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kamaukavana-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="400" />
+<br><em>Development Analytics</em>
+</td>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kamaukavana-dev&theme=tokyonight&hide_border=true&background=0D1117&dates=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="400" />
+<br><em>Contribution Streak</em>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kamaukavana-dev&theme=onedark&row=2&column=4&no-frame=true&margin-w=20&margin-h=20" width="100%" />
+<br><em>Achievement Trophies</em>
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 📊 Skills Heatmap & Contribution Activity
+## 🌀 Tech Ecosystem Visualizations
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaukavana-dev&layout=compact&theme=tokyonight" />
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="900" />
+<!-- Contribution Snake -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
+<em>Daily Coding Contributions</em>
+
+<!-- Activity Graph -->
+
+<img src="https://activity-graph.herokuapp.com/graph?username=kamaukavana-dev&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00ffff&line=00ffff&point=ffffff&radius=8" width="100%" alt="Activity Graph" />
+<em>Hourly Activity Pattern</em>
+
+<!-- Language Usage Graph -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaukavana-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=12" width="800" alt="Top Languages" />
+<em>Language Distribution</em>
 </div>
 
 ---
 
-## 🖥️ Scroll-Triggered Animations & Project Cards
-<details>
-<summary><b>Click to expand portfolio</b></summary>
+## ⚡ Featured Project Showcase
 
-### 🔹 ShopKenya (E-commerce UI)
-- Tech: HTML, CSS, JS  
-- Description: Mobile-first responsive e-commerce interface with product showcase and checkout UI mockup  
-- ![ShopKenya Screenshot](https://raw.githubusercontent.com/kamaukavana-dev/kamaukavana-dev/main/assets/screenshot-shopkenya.png)  
-- <a href="https://github.com/kamaukavana-dev/shopkenya">GitHub Repo</a> • Live demo soon
-
-### 🔹 AI Desktop Assistant
-- Tech: Python, Tkinter  
-- Description: Desktop command automation and local scripting assistant  
-- ![AI Assistant Screenshot](https://raw.githubusercontent.com/kamaukavana-dev/kamaukavana-dev/main/assets/screenshot-ai-assistant.png)  
-- <a href="https://github.com/kamaukavana-dev/ai-desktop-assistant">GitHub Repo</a>
-
-### 🔹 Personal Portfolio Website
-- Tech: HTML, CSS, JS  
-- Description: Portfolio site for projects, skills, and contact information  
-- ![Portfolio Screenshot](https://raw.githubusercontent.com/kamaukavana-dev/kamaukavana-dev/main/assets/screenshot-portfolio.png)  
-- <a href="https://github.com/kamaukavana-dev/portfolio">GitHub Repo</a>
-
-</details>
+| Project              | Technology Stack      | Live Demo           | Repository                                                        |
+| -------------------- | --------------------- | ------------------- | ----------------------------------------------------------------- |
+| ShopKenya            | HTML, CSS, JavaScript | [Live Demo](#)      | [GitHub](https://github.com/kamaukavana-dev/shopkenya)            |
+| AI Desktop Assistant | Python, Tkinter       | [View Code](#)      | [GitHub](https://github.com/kamaukavana-dev/ai-desktop-assistant) |
+| Personal Portfolio   | HTML, CSS, JavaScript | [View Portfolio](#) | [GitHub](https://github.com/kamaukavana-dev/personall-portfolio)  |
+| Learning Projects    | Various Technologies  | [Explore](#)        | [GitHub](https://github.com/kamaukavana-dev)                      |
 
 ---
 
-## 🎨 Neon Glow & Animated Badges
+## 🎨 Tech Architecture & Skills
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Python-green?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/DevOps-Docker-%23007acc?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge&logo=figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,stackoverflow" /><br>
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,nginx,apache" />
 </div>
 
 ---
 
-## 📱 Mobile-Optimized Compact View
-<details>
-<summary><b>Open Mobile Version</b></summary>
-<br>
+## 🔥 Development Metrics & Goals
+
+### 📊 Learning Progress
+
+| Skill              | Current Level         | Goal     |
+| ------------------ | --------------------- | -------- |
+| Web Development    | Intermediate          | Advanced |
+| Python Programming | Intermediate          | Expert   |
+| JavaScript/React   | Beginner-Intermediate | Advanced |
+| Problem Solving    | Developing            | Strong   |
+| Git/GitHub         | Intermediate          | Expert   |
+
+### 🎯 Current Learning Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00E5FF&center=true&vCenter=true&width=400&lines=Hi+I'm+Daniel+Maina+Kamau;Full-Stack+Developer;Welcome+to+My+GitHub!" />
+<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Improving-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Structures-Practicing-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Algorithms-Practicing-4ECDC4?style=for-the-badge" />
 </div>
-
-### 🧩 Quick Snapshot
-- 🔥 Tech: HTML • CSS • JS • Python • React • Vue
-- 🚀 Focus: Full-Stack • Automation • AI Tools
-- 🎯 Goals: Become elite-level engineer
-- 🌍 Location: Kenya
-- ✨ Mission: Build clean, functional, impactful systems
-
-### 🔧 Mini Tech Stack
-<p align="center">
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</p>
-
-### ⚡ Quick Stats
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=kamaukavana-dev&show_icons=true&theme=tokyonight" />
-</p>
-
-</details>
 
 ---
 
-## 🌐 GitHub Pages Deployment Guide
-Deploy any project instantly:
+## 📱 Connect & Collaborate
+
+<div align="center">
+<a href="mailto:kavana.daniel1@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-kavana.daniel1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://kamaukavana-dev.github.io/personall-portfolio/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/daniel-kamau-ab9631389">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/kamaukavana-dev">
+<img src="https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+
+---
+
+## 🛠 Development Commands & Setup
 
 ```bash
-git add .
-git commit -m "deploy"
-git push
-  
+#!/bin/bash
+# Quick Development Setup
+echo "🚀 Setting up development environment..."
 
+# Clone specific projects
+git clone https://github.com/kamaukavana-dev/shopkenya
+git clone https://github.com/kamaukavana-dev/personall-portfolio
+git clone https://github.com/kamaukavana-dev/ai-desktop-assistant
+
+# Navigate to portfolio
+cd personall-portfolio
+
+# Open in browser
+echo "🌐 Opening portfolio..."
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    open index.html
+elif [[ "$OSTYPE" == "linux-gnu"* ]]; then
+    xdg-open index.html
+elif [[ "$OSTYPE" == "msys" ]]; then
+    start index.html
+fi
+
+echo "✅ Setup complete! Happy coding! 🎉"
+```
+
+---
+
+## 🌟 2024 Learning Goals
+
+| Goal                        | Description                              |
+| --------------------------- | ---------------------------------------- |
+| 🔥 Master React & Node.js   | Deep dive into modern web development    |
+| 💻 Build 10+ Projects       | Hands-on experience with real projects   |
+| 📚 Learn Algorithms         | Strengthen problem-solving skills        |
+| 🌐 Deploy 5 Live Apps       | Showcase live applications               |
+| 🤝 Collaborate on OSS       | Contribute to open-source projects       |
+| 🎓 Complete CS Fundamentals | Build strong computer science foundation |
+
+---
+
+## 🌌 My Coding Philosophy
+
+*"Every line of code is a learning opportunity. I believe in building, breaking, fixing, and improving. The journey of mastering 20+ programming languages is not about perfection, but about understanding different paradigms and finding the right tool for each problem."*
+
+Looking For:
+🤝 Learning opportunities and mentorship
+🚀 Beginner-friendly projects to contribute to
+🎯 Internships in web development or software engineering
+💡 Collaboration on interesting coding challenges
+📚 Guidance on career development in tech
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn&reversal=true" />
+<br>🔗 Let's Learn and Build Together!  
+© 2024 Daniel Maina Kamau | Aspiring Full-Stack Developer | Nairobi, Kenya
+</div>
+```
 
