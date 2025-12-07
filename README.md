@@ -1,22 +1,4 @@
-
-````markdown
-# 🚀 Daniel Maina Kamau — Aspiring Full-Stack Engineer & AI Enthusiast
-
-<div align="center">
-
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&height=100&lines=🚀+Aspiring+Full-Stack+Developer;🤖+AI+%26+Automation+Enthusiast;💻+Polyglot+Programmer;🎯+Problem+Solver;🔥+Always+Learning" alt="Animated Typing Header" />
-
-<!-- Animated Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Daniel+Maina+Kamau&descSize=24&descAlignY=75" />
-
-</div>
-
----
-
 ## 🌌 About Me — The Future Engineer
-
-<div align="center">
 
 ```javascript
 const aspiringEngineer = {
@@ -34,11 +16,7 @@ const aspiringEngineer = {
   ],
   status: "Building my skills, one project at a time"
 };
-````
-
-</div>
-
----
+```
 
 ## 🎮 Programming Language Journey — 20+ Languages
 
@@ -171,31 +149,31 @@ const aspiringEngineer = {
 
 ```bash
 #!/bin/bash
-# Quick Development Setup
 echo "🚀 Setting up development environment..."
 
-# Clone specific projects
+# Clone projects
 git clone https://github.com/kamaukavana-dev/shopkenya
 git clone https://github.com/kamaukavana-dev/personall-portfolio
 git clone https://github.com/kamaukavana-dev/ai-desktop-assistant
 
 # Navigate to portfolio
-cd personall-portfolio
+if [ -d "personall-portfolio" ]; then
+    cd personall-portfolio
+else
+    echo "❌ Folder personall-portfolio not found!"
+    exit 1
+fi
 
-# Open in browser
+# Open index.html in default browser (Windows)
 echo "🌐 Opening portfolio..."
-if [[ "$OSTYPE" == "darwin"* ]]; then
-    open index.html
-elif [[ "$OSTYPE" == "linux-gnu"* ]]; then
-    xdg-open index.html
-elif [[ "$OSTYPE" == "msys" ]]; then
+if command -v start >/dev/null; then
     start index.html
+else
+    echo "⚠️ Could not automatically open browser. Open index.html manually."
 fi
 
 echo "✅ Setup complete! Happy coding! 🎉"
 ```
-
----
 
 ## 🌟 2024 Learning Goals
 
