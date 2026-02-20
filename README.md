@@ -275,6 +275,280 @@ Always open to learning, collaborating, and growing as a developer.<br><br>
 
 </div>
 
+🚀 ☁️ Advanced Java + Cloud Engineering Arsenal
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,docker,kubernetes,aws,gcp,azure,linux,redis,mongodb,postgres,mysql,nginx,terraform,prometheus,grafana,jenkins,githubactions" /> </div>
+🧠 Enterprise Java Mastery
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+🔥 Java Deep Knowledge Areas
+
+JVM Internals (Heap, Stack, Garbage Collection tuning)
+
+Multithreading & Concurrency (Executors, ForkJoin, CompletableFuture)
+
+Design Patterns (Factory, Singleton, Strategy, Observer, Builder)
+
+Clean Architecture & SOLID Principles
+
+Spring Boot Production Configurations
+
+OAuth2 + JWT Authentication
+
+Role-Based Access Control (RBAC)
+
+Exception Handling & Global Advice
+
+API Versioning Strategies
+
+Swagger / OpenAPI Documentation
+
+Rate Limiting & API Gateway Patterns
+
+☁️ Cloud Architecture & DevOps Engineering
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+☁️ Cloud Skills Breakdown
+
+Compute & Infrastructure
+
+EC2 / VM Instances
+
+Kubernetes Clusters
+
+Load Balancers
+
+Auto Scaling Groups
+
+VPC & Subnet Architecture
+
+Storage
+
+S3 Object Storage
+
+Cloud SQL
+
+NoSQL Databases
+
+Blob Storage
+
+DevOps & Automation
+
+GitHub Actions CI/CD
+
+Jenkins Pipelines
+
+Docker Multi-stage Builds
+
+Infrastructure as Code (Terraform)
+
+Helm Charts
+
+Observability
+
+Prometheus Metrics
+
+Grafana Dashboards
+
+Log Aggregation
+
+Distributed Tracing
+
+🏗 Backend Architecture Visual
+📡 Distributed Systems & Messaging
+<div align="center">
+
+
+
+
+
+
+</div>
+
+Event-Driven Architecture
+
+Asynchronous Processing
+
+Idempotency Patterns
+
+Circuit Breaker Pattern
+
+Resilience4j
+
+Distributed Caching
+
+🛡 Security Engineering
+<div align="center">
+
+
+
+
+
+
+</div>
+
+CSRF Protection
+
+CORS Configuration
+
+Secure Headers
+
+Password Hashing (BCrypt)
+
+Token Refresh Strategy
+
+Secure Cookie Policies
+
+🧪 Testing & Quality Engineering
+<div align="center">
+
+
+
+
+
+
+</div>
+
+Unit Testing
+
+Integration Testing
+
+Test Coverage
+
+API Testing
+
+TDD Practices
+
+📊 DevOps Pipeline Visual
+🧠 System Design Competencies
+
+Horizontal vs Vertical Scaling
+
+CAP Theorem
+
+Consistency Models
+
+Database Indexing Strategies
+
+Sharding
+
+Load Balancing Algorithms
+
+Monolith → Microservices Migration
+
+API Gateway Patterns
+
+Caching Strategies
+
+High Availability Systems
+
+🏆 Engineering Level
+<div align="center">
+
+
+
+
+
+
+
+
+</div>
+🧠 Advanced Engineering Visual Intelligence Layer
+🎯 Engineering Radar Matrix
+<div align="center"> <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Java','Spring','Cloud','DevOps','System Design','Security','Databases','Algorithms'],datasets:[{label:'Engineering Depth',data:[90,88,85,80,75,82,87,78]}]},options:{scale:{ticks:{beginAtZero:true,max:100}}}}" width="600"/>
+
+<em>Backend + Cloud Capability Radar</em>
+
+</div>
+🏗 3D Distributed System Architecture (Enterprise Scale)
+⚙️ Production DevOps Pipeline (Enterprise CI/CD)
+🛰 Observability & Reliability Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=prometheus,grafana,docker,kubernetes,linux,nginx" />
+
+
+
+
+
+
+
+
+</div>
+
+Metrics-driven architecture
+
+SLA / SLO design
+
+Alerting pipelines
+
+Health probes & readiness checks
+
+Zero-downtime deployments
+
+🧬 Dark-Mode Optimized Tech Banner
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=180&section=header&text=Java+%2B+Cloud+Engineering&fontSize=40&fontColor=00F7FF&animation=fadeIn" /> </div>
+🔬 Backend Capability Matrix
+Domain	Capability Level	Tools
+API Engineering	Production Ready	Spring Boot, REST, OpenAPI
+Cloud Deployment	Intermediate-Advanced	AWS, GCP, Docker
+Container Orchestration	Intermediate	Kubernetes
+CI/CD Automation	Integrated	GitHub Actions, Jenkins
+Distributed Systems	Applied Knowledge	Kafka, Redis
+Database Engineering	Advanced	PostgreSQL, MySQL
+Security	Strong	JWT, OAuth2
+JVM Optimization	Practicing	GC tuning, profiling
+🧩 Enterprise Toolchain Wall
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,redis,mongodb,postgres,mysql,linux,bash,nginx,prometheus,grafana,git" /> </div>
+🏛 Architecture Maturity Scale
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+</div>
+📊 Advanced GitHub Visual Stack
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamaukavana-dev&theme=tokyonight" width="48%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamaukavana-dev&theme=tokyonight" width="48%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamaukavana-dev&theme=tokyonight&utcOffset=3" width="60%"/> </div>
+🔐 Secure Infrastructure Diagram
+🏁 Elite Engineering Declaration
+<div align="center">
+
+
+
+
+
+
+
+
+</div>
+
 
 © 2024 Daniel Maina  | Aspiring Full-Stack Developer  
 Nairobi, Kenya | kavana.daniel1@gmail.com
