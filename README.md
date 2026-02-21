@@ -1,5 +1,5 @@
 
-##🌌 About Me 🚀🚀🚀 "DANIEL MAINA" — ASPRING FULL-STACK ENGINEER , CLOUD ANALYST $ AI ENTHUSIAST 
+🌌 CODE WORLD🚀🚀🚀 "DANIEL MAINA" — ASPRING FULL-STACK JAVA  DEVOP ENGINEER , CLOUD ANALYST $ AI ENTHUSIAST 
 
 <div align="center">
 
@@ -160,6 +160,7 @@ const aspiringEngineer = {
 | Python Programming | Intermediate          | Expert   |
 | JavaScript/React   | Beginner-Intermediate | Advanced |
 | Problem Solving    | Developing            | Strong   |
+| Java developer     | Intermediate          | Expert   |
 | Git/GitHub         | Intermediate          | Expert   |
 
 ### 🎯 Current Learning Focus
@@ -227,10 +228,10 @@ echo "✅ Setup complete! Happy coding! 🎉"
 
 | Goal                        | Description                              |
 | --------------------------- | ---------------------------------------- |
-| 🔥 Master React & Node.js   | Deep dive into modern web development    |
+| 🔥 Master Java & Springboot |Deep dive into modern architecture & cloud|
 | 💻 Build 10+ Projects       | Hands-on experience with real projects   |
-| 📚 Learn Algorithms         | Strengthen problem-solving skills        |
-| 🌐 Deploy 5 Live Apps       | Showcase live applications               |
+| 📚 Learn Algorithms & DAS   | Strengthen problem-solving skills        |
+| 🌐 Deploy 5 Live Apps       | Showcase live applications using AWS     |
 | 🤝 Collaborate on OSS       | Contribute to open-source projects       |
 | 🎓 Complete CS Fundamentals | Build strong computer science foundation |
 
