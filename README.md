@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="Cyberpunk tech profile of Daniel Maina.png" width="100%" />
+  <img src="Daniel Maina_ architect of the future.png" width="100%" />
 </div>
-🌌 CODE WORLD🚀🚀🚀 "DANIEL MAINA" — ASPRING FULL-STACK JAVA  DEVOP ENGINEER , CLOUD ANALYST $ AI ENTHUSIAST 
-
 <div align="center">
 
 <!-- Animated Typing Header -->
@@ -66,45 +64,8 @@ const aspiringEngineer = {
 | ![HTML5](https://img.shields.io/badge/HTML5-Strong-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=000) | ![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?logo=php&logoColor=white&style=for-the-badge&labelColor=000) | ![Shell](https://img.shields.io/badge/Shell-Learning-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge&labelColor=000) | ![R](https://img.shields.io/badge/R-Exploring-276DC3?logo=r&logoColor=white&style=for-the-badge&labelColor=000) |
 | ![CSS3](https://img.shields.io/badge/CSS3-Strong-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=000) | ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=000) | ![MATLAB](https://img.shields.io/badge/MATLAB-Learning-0076A8?logo=mathworks&logoColor=white&style=for-the-badge&labelColor=000) | ![Solidity](https://img.shields.io/badge/Solidity-Exploring-363636?logo=solidity&logoColor=white&style=for-the-badge&labelColor=000) |
 
-
 ---
-
-## 🚀 GitHub Analytics Dashboard
-
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=kamaukavana-dev&show_icons=true&theme=tokyonight" width="400" />
-<br><em>Development Analytics</em>
-</td>
-<td align="center">
-<!-- GitHub Streak Stats (Stable Alternative) -->
-<img src="https://streak-stats.demolab.com?user=kamaukavana-dev&theme=dark&hide_border=true" width="400" />
-<br><em>Contribution Streak</em>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<!-- GitHub Trophy Alternative -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamaukavana-dev&theme=tokyonight" width="100%" />
-<br><em>Profile Overview & Achievements</em>
-</td>
-</tr>
-</table>
-</div>
-
-
-📈 Growth & Learning Analytics  
-🌟 GitHub Contribution Chart  
-<img src="https://ghchart.rshah.org/00F7FF/kamaukavana-dev" alt="GitHub Contribution Chart" width="800" />  
-<div><em>Yearly Contribution Pattern</em></div>
-
-
 ---
-
 ## 🌀 Tech Ecosystem Visualizations
 
 <div align="center">
@@ -129,10 +90,8 @@ const aspiringEngineer = {
 
 | Project              | Technology Stack      | Live Demo           | Repository                                                        |
 | -------------------- | --------------------- | ------------------- | ----------------------------------------------------------------- |
-| ShopKenya            | HTML, CSS, JavaScript | [Live Demo](#)      | [GitHub](https://github.com/kamaukavana-dev/shopkenya)            |
-| AI Desktop Assistant | Python, Tkinter       | [View Code](#)      | [GitHub](https://github.com/kamaukavana-dev/ai-desktop-assistant) |
 | Personal Portfolio   | HTML, CSS, JavaScript | [View Portfolio](#) | [GitHub](https://github.com/kamaukavana-dev/personall-portfolio)  |
-| Learning Projects    | Various Technologies  | [Explore](#)        | [GitHub](https://github.com/kamaukavana-dev)                      |
+                    |
 
 ---
 | Platform  | Details                                             | Purpose                        |
@@ -151,30 +110,6 @@ const aspiringEngineer = {
 </div>
 
 ---
-
-## 🔥 Development Metrics & Goals
-
-### 📊 Learning Progress
-
-| Skill              | Current Level         | Goal     |
-| ------------------ | --------------------- | -------- |
-| Web Development    | Intermediate          | Advanced |
-| Python Programming | Intermediate          | Expert   |
-| JavaScript/React   | Beginner-Intermediate | Advanced |
-| Problem Solving    | Developing            | Strong   |
-| Java developer     | Intermediate          | Expert   |
-| Git/GitHub         | Intermediate          | Expert   |
-
-### 🎯 Current Learning Focus
-
-<div align="center">
-<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Improving-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Structures-Practicing-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Algorithms-Practicing-4ECDC4?style=for-the-badge" />
-</div>
-
 ---
 
 ## 📱 Connect & Collaborate
@@ -224,26 +159,55 @@ else
 fi
 
 echo "✅ Setup complete! Happy coding! 🎉"
+
 ```
+🌟 2026 Learning & Career Goals
 
-## 🌟 2025 Learning Goals
-
-| Goal                        | Description                              |
-| --------------------------- | ---------------------------------------- |
-| 🔥 Master Java & Springboot |Deep dive into modern architecture & cloud|
-| 💻 Build 10+ Projects       | Hands-on experience with real projects   |
-| 📚 Learn Algorithms & DAS   | Strengthen problem-solving skills        |
-| 🌐 Deploy 5 Live Apps       | Showcase live applications using AWS     |
-| 🤝 Collaborate on OSS       | Contribute to open-source projects       |
-| 🎓 Complete CS Fundamentals | Build strong computer science foundation |
+| Goal                                         | Description                                                                                            |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 🔥 Master Java & Spring Boot                 | Deep dive into enterprise backend development, microservices, and cloud-native architecture.           |
+| ☁️ Cloud Engineering & DevOps                | Expertise in AWS/GCP, Kubernetes, Docker, CI/CD pipelines, monitoring, and distributed systems.        |
+| 💻 Build 15+ Advanced Projects               | Hands-on, production-level projects integrating backend, cloud, and AI components.                     |
+| 🤖 Integrate AI & Automation                 | Implement AI-driven features into backend systems for smarter, scalable applications.                  |
+| 🌐 Deploy 10+ Live Applications              | Showcase full-stack, cloud-integrated, and AI-enhanced apps on public platforms.                       |
+| 📚 Master Algorithms & Data Structures       | Strengthen problem-solving, system design, and coding efficiency.                                      |
+| 🧠 System Design & Architecture              | Design complex architectures: microservices, CI/CD, cloud infrastructure, observability, and security. |
+| 🤝 Contribute to Open-Source & Collaboration | Participate in high-level projects, mentorship, and collaborative engineering.                         |
+| 🎓 Complete Computer Science Fundamentals    | Ensure deep understanding of core CS, OS, networking, databases, and distributed systems.              |
+| 🚀 Continuous Learning & Skill Expansion     | Stay at the cutting edge of programming languages, frameworks, and AI/cloud technologies.              |
 
 ---
 📊 Profile Analytics
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&color=00ffff&style=flat-square&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/kamaukavana-dev?color=00ffff&label=FOLLOWERS&style=flat-square" /> <img src="https://img.shields.io/github/stars/kamaukavana-dev?color=00ffff&label=TOTAL+STARS&style=flat-square" /> <img src="https://img.shields.io/github/last-commit/kamaukavana-dev/kamaukavana-dev?color=00ffff&label=PROFILE+UPDATED&style=flat-square" /> </div>
 
-🌟 Skill Development Visualizations
-<div align="center"><!-- Animated Icons --><div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="margin: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="margin: 10px;" /> </div>
-<!-- Learning Progress --><div align="center"> <h3>📈 Learning Progress Tracker</h3> <p><strong>Python:</strong> ▰▰▰▰▰▰▰▰▱▱ 80%</p> <p><strong>JavaScript:</strong> ▰▰▰▰▰▰▱▱▱▱ 60%</p> <p><strong>Web Development:</strong> ▰▰▰▰▰▰▰▱▱▱ 70%</p> <p><strong>Git/GitHub:</strong> ▰▰▰▰▰▰▰▰▱▱ 80%</p> </div></div>
+## 🌟 Skill Development Visualizations
+
+<div align="center">
+  <!-- Technology Icons -->
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="60" height="60" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" style="margin: 10px;" />
+  </div>
+
+  <!-- Learning Progress -->
+  <div align="center">
+    <h3>📈 Learning Progress Tracker</h3>
+    <p><strong>Python:</strong> ▰▰▰▰▰▰▰▱▱▱ 70%</p>
+    <p><strong>Java:</strong> ▰▰▰▰▰▰▰▰▱▱ 75%</p>
+    <p><strong>JavaScript:</strong> ▰▰▰▰▰▰▱▱▱▱ 60%</p>
+    <p><strong>SQL / Databases:</strong> ▰▰▰▰▰▰▰▱▱▱ 70%</p>
+    <p><strong>React / Frontend:</strong> ▰▰▰▰▰▰▰▱▱▱ 70%</p>
+    <p><strong>Spring Boot / Backend:</strong> ▰▰▰▰▰▰▰▰▱▱ 75%</p>
+    <p><strong>Web Development:</strong> ▰▰▰▰▰▰▰▱▱▱ 70%</p>
+    <p><strong>Git / GitHub:</strong> ▰▰▰▰▰▰▰▰▱▱ 80%</p>
+  </div>
+</div>
 
 ## 🌌 My Coding Philosophy
 
@@ -258,41 +222,21 @@ Looking For:
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn&reversal=true" />
-<br>🔗 Let's Learn and Build Together!<br>
-Always open to learning, collaborating, and growing as a developer.<br><br>
-
-## 🎯 Quick Navigation
-
-<div align="center">
-
-[🏠 Top](#-daniel-main-a-kamau--aspiring-full-stack-engineer--ai-enthusiast) •
-[👨‍💻 About](#-about-me) •
-[💻 Skills](#-programming-language-journey--20-languages) •
-[📊 Stats](#-github-analytics-dashboard) •
-[🚀 Projects](#-featured-project-showcase) •
-[📈 Goals](#-development-metrics--goals) •
-[📱 Contact](#-connect--collaborate) •
-[🛠️ Setup](#-development-commands--setup)
-
-</div>
-
 ⚡ JAVA × CLOUD × SYSTEM DESIGN 
 🎬 Animated Engineering Banner
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Enterprise%20Java%20%2B%20Cloud%20Engineer&fontSize=42&fontColor=00F7FF&animation=twinkling" /> </div>
 🧠 Engineering Radar + Skill Pie Analytics
+
 <div align="center">
-🔥 Radar Depth Matrix
-<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Java','Spring','Cloud','DevOps','Security','System Design','Databases','Distributed Systems'],datasets:[{label:'Engineering Depth',backgroundColor:'rgba(0,247,255,0.3)',borderColor:'#00F7FF',data:[92,88,85,83,84,80,89,78]}]},options:{plugins:{legend:{labels:{color:'white'}}},scales:{r:{angleLines:{color:'#333'},grid:{color:'#222'},pointLabels:{color:'#00F7FF'},ticks:{backdropColor:'transparent',color:'#aaa',beginAtZero:true,max:100}}}}}" width="600"/>
-📊 Backend Stack Distribution
-<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Backend','Cloud','DevOps','Security','System Design'],datasets:[{data:[30,25,20,15,10],backgroundColor:['#00F7FF','#FF00FF','#00E676','#FFC400','#FF1744']}]}}" width="400"/> </div>
+
+<img src="System architecture diagrams in focus.png" width="90%" alt="Daniel Maina - System Architecture Overview" />
+
+<p><em>Integrated view of CI/CD pipeline, Microservices architecture, Cloud infrastructure, and backend + AI integration.</em></p>
+
+</div>
 🛰 Animated Tech Orbit (Rotating Illusion)
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+%E2%9C%95+Spring+Boot;Docker+%E2%9C%95+Kubernetes;AWS+%E2%9C%95+Terraform;Kafka+%E2%9C%95+Redis;Microservices+%E2%9C%95+Event+Driven;CI%2FCD+%E2%9C%95+Observability" /> <br> <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,gcp,terraform,redis,kafka,postgres,linux,nginx&perline=6" /> </div>
-🏗 3D Microservices Mesh (Compact)
-⚙️ DevOps Autonomous Pipeline
-📊 Ultra GitHub Metrics Grid
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kamaukavana-dev&show_icons=true&theme=tokyonight&count_private=true" width="48%"/> <img src="https://streak-stats.demolab.com?user=kamaukavana-dev&theme=tokyonight&hide_border=true" width="48%"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamaukavana-dev&theme=tokyonight" width="95%"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamaukavana-dev&theme=tokyonight&utcOffset=3" width="60%"/> </div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamaukavana-dev&theme=tokyonight" width="95%"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamaukavana-dev&theme=tokyonight&utcOffset=3" width="60%"/> </div>
 🧬 Observability Stack (Minimal Words)
 <div align="center"> <img src="https://skillicons.dev/icons?i=prometheus,grafana,docker,kubernetes,linux" />
 
