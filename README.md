@@ -11,9 +11,7 @@
 
 <!-- Animated Gradient Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn" />
 <div align="center">
   <h4>🕒 Live Stats (Simulated)</h4>
 
@@ -32,7 +30,8 @@
 
 
 ---
-                    ./🤔 $Whoami
+./🤔 $Whoami
+                    
 ```javascript
 const aspiringEngineer = {
   identity: "Daniel Maina ",
