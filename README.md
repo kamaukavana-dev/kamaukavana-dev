@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&height=100&lines=🚀+Aspiring+Full-Stack+Developer;🤖+AI+%26+Automation+Enthusiast;💻+Polyglot+Programmer;🎯+Problem+Solver;🔥+Always+Learning" alt="Animated Typing Header" />
 
 <!-- Animated Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Daniel+Maina&descSize=24&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn" />
@@ -48,13 +48,13 @@ const aspiringEngineer = {
 };
 ```
 
-## 🎮 Programming Language Journey — 20+ Languages
+🎮 Programming Languages — 20+ Languages
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,go,rust,kotlin,swift,ruby,php,dart,r,solidity,matlab" />
 <img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,django,flask,spring,tailwind,threejs" />
 </div>
-### 🏆 Language Proficiency Matrix
+🏆 Language Proficiency Matrix
 
 | Strong Proficiency | Intermediate | Learning Actively | Exploring |
 |------------------|-------------|-----------------|-----------|
@@ -86,14 +86,15 @@ const aspiringEngineer = {
 
 ---
 
-## ⚡ Featured Project Showcase
+## ⚡ HERE IS MY PERSONAL PORTFOLIO FOR MORE INFO :
 
 | Project              | Technology Stack      | Live Demo           | Repository                                                        |
 | -------------------- | --------------------- | ------------------- | ----------------------------------------------------------------- |
 | Personal Portfolio   | HTML, CSS, JavaScript | [View Portfolio](#) | [GitHub](https://github.com/kamaukavana-dev/personall-portfolio)  |
-                    |
 
 ---
+## ⚡ HOW TO REACH OUT TO ME :
+
 | Platform  | Details                                             | Purpose                        |
 |----------|----------------------------------------------------|--------------------------------|
 | Email    | [kavana.daniel1@gmail.com](mailto:kavana.daniel1@gmail.com) | Professional inquiries         |
@@ -215,10 +216,10 @@ echo "✅ Setup complete! Happy coding! 🎉"
 
 Looking For:
 🤝 Learning opportunities and mentorship
-🚀 Beginner-friendly projects to contribute to
-🎯 Internships in web development or software engineering
+🚀 projects to contribute to
+🎯 Internships in Backend development ,Cloud integration or software engineering
 💡 Collaboration on interesting coding challenges
-📚 Guidance on career development in tech
+📚 Guidance on career development in tech and systems architecture
 
 ---
 
