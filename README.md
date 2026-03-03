@@ -1,26 +1,10 @@
-<!-- Static 4D Block Text: DANIELMAINA -->
-<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Gradient for 4D effect -->
-    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#ff0055"/>
-      <stop offset="25%" stop-color="#ff9900"/>
-      <stop offset="50%" stop-color="#ffff00"/>
-      <stop offset="75%" stop-color="#00ff99"/>
-      <stop offset="100%" stop-color="#00ccff"/>
-    </linearGradient>
-  </defs>
+██████╗  █████╗ ███╗   ██╗██╗███████╗██╗     ███╗   ███╗ █████╗ ███╗   ██╗██╗███╗   ██╗ █████╗ 
+██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║     ████╗ ████║██╔══██╗████╗  ██║██║████╗  ██║██╔══██╗
+██████╔╝███████║██╔██╗ ██║██║█████╗  ██║     ██╔████╔██║███████║██╔██╗ ██║██║██╔██╗ ██║███████║
+██╔═══╝ ██╔══██║██║╚██╗██║██║██╔══╝  ██║     ██║╚██╔╝██║██╔══██║██║╚██╗██║██║██║╚██╗██║██╔══██║
+██║     ██║  ██║██║ ╚████║██║███████╗███████╗██║ ╚═╝ ██║██║  ██║██║ ╚████║██║██║ ╚████║██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 
-  <!-- Base 4D block layers for depth -->
-  <text x="50" y="200" font-family="Impact, Arial Black, sans-serif"
-        font-size="150" font-weight="900" fill="#111">
-    DANIELMAINA
-  </text>
-  <text x="45" y="195" font-family="Impact, Arial Black, sans-serif"
-        font-size="150" font-weight="900" fill="url(#gradient)">
-    DANIELMAINA
-  </text>
-</svg>
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=00F7FF&center=true&width=1200&height=100&lines=🚀+Aspiring+DevOps+Engineer;🤖+AI+%26+Automation+Enthusiast;💻+Spring+Boot+Developer;🎯+Problem+Solver;🔥+Always+Learning" alt="Animated Typing Header" />
 
