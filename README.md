@@ -29,22 +29,24 @@
 
 
 ---
-
+🤔 $Whoami
 ```javascript
 const aspiringEngineer = {
   identity: "Daniel Maina ",
   title: "Aspiring Full-Stack Developer & AI Enthusiast",
-  location: "Nairobi, Kenya",
+  location: "Nairobi, Kenya 🇰🇪 🇰🇪",
   education: "Computer Science Student",
   philosophy: "Build, Learn, Iterate, Improve",
   specialties: [
+    "System Design & Architecture",
     "Web Development",
+    "Java SpringBoot & Backend development ",
     "AI & Automation Projects",
+    "Cloud engineering & Devops",
     "Problem Solving",
     "Continuous Learning",
-    "Clean Code Practices"
   ],
-  status: "Building my skills, one project at a time"
+  status: "I dont just write code ,I architect the future 🤺"
 };
 ```
 
