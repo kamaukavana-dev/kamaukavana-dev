@@ -63,21 +63,6 @@ const aspiringEngineer = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Streak" />
 <em>Contribution Streak / Activity Pattern</em>
 
-<!-- Top Languages (working mirror) -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kamaukavana-dev&layout=compact&langs_count=12&theme=tokyonight" width="800" alt="Top Languages" />
-<em>Language Distribution</em>
-</div>
-
-
-
----
-
-## ⚡ HERE IS MY PERSONAL PORTFOLIO FOR MORE INFO :
-
-| Project              | Technology Stack      | Live Demo           | Repository                                                        |
-| -------------------- | --------------------- | ------------------- | ----------------------------------------------------------------- |
-| Personal Portfolio   | HTML, CSS, JavaScript | [View Portfolio](#) | [GitHub](https://github.com/kamaukavana-dev/personall-portfolio)  |
-
 ---
 ## ⚡ HOW TO REACH OUT TO ME :
 
@@ -236,7 +221,7 @@ Looking For:
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer&animation=fadeIn&fontColor=00F7FF" /> </div>
 
 
-© 2024 Daniel Maina  | Aspiring Full-Stack Developer  
+© 2026 Daniel Maina  | Aspiring Software Engineer  
 Nairobi, Kenya | kavana.daniel1@gmail.com
 
 ```
