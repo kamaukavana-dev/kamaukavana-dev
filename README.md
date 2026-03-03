@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="a_readme_for_daniel_maina_kamaukavana_dev_he_hi.png" width="100%" />
+</div>
 🌌 CODE WORLD🚀🚀🚀 "DANIEL MAINA" — ASPRING FULL-STACK JAVA  DEVOP ENGINEER , CLOUD ANALYST $ AI ENTHUSIAST 
 
 <div align="center">
