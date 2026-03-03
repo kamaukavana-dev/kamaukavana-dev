@@ -1,5 +1,5 @@
 <!-- 4D Graffiti-Style DanielMaina -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&weight=900&duration=3000&pause=500&center=true&width=800&height=120&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,8B00FF&lines=🔥+DanielMaina" alt="DanielMaina 4D Graffiti" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&weight=900&duration=3000&pause=500&center=true&width=800&height=120&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,8B00FF&lines=🔥🔥+DANIEL MAINA" alt="DANIEL MAINA 4D Graffiti" />
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=00F7FF&center=true&width=1200&height=100&lines=🚀+Aspiring+DevOps+Engineer;🤖+AI+%26+Automation+Enthusiast;💻+Spring+Boot+Developer;🎯+Problem+Solver;🔥+Always+Learning" alt="Animated Typing Header" />
 
@@ -26,11 +26,11 @@
 
 
 ---
-🤔 $Whoami
+                    ./🤔 $Whoami
 ```javascript
 const aspiringEngineer = {
   identity: "Daniel Maina ",
-  title: "Aspiring Full-Stack Developer & AI Enthusiast",
+  title: "Aspiring Software Engineer & AI Enthusiast",
   location: "Nairobi, Kenya 🇰🇪 🇰🇪",
   education: "Computer Science Student",
   philosophy: "Build, Learn, Iterate, Improve",
@@ -167,31 +167,6 @@ echo "✅ Setup complete! Happy coding! 🎉"
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" style="margin: 10px;" />
   </div>
 
-  <!-- Learning Progress -->
-  <div align="center">
-    <h3>📈 Learning Progress Tracker</h3>
-    <p><strong>Python:</strong> ▰▰▰▰▰▰▰▱▱▱ 70%</p>
-    <p><strong>Java:</strong> ▰▰▰▰▰▰▰▰▱▱ 75%</p>
-    <p><strong>JavaScript:</strong> ▰▰▰▰▰▰▱▱▱▱ 60%</p>
-    <p><strong>SQL / Databases:</strong> ▰▰▰▰▰▰▰▱▱▱ 70%</p>
-    <p><strong>React / Frontend:</strong> ▰▰▰▰▰▰▰▱▱▱ 70%</p>
-    <p><strong>Spring Boot / Backend:</strong> ▰▰▰▰▰▰▰▰▱▱ 75%</p>
-    <p><strong>Web Development:</strong> ▰▰▰▰▰▰▰▱▱▱ 70%</p>
-    <p><strong>Git / GitHub:</strong> ▰▰▰▰▰▰▰▰▱▱ 80%</p>
-  </div>
-</div>
-
-## 🌌 My Coding Philosophy
-
-*"Every line of code is a learning opportunity. I believe in building, breaking, fixing, and improving. The journey of mastering 20+ programming languages is not about perfection, but about understanding different paradigms and finding the right tool for each problem."*
-
-Looking For:
-🤝 Learning opportunities and mentorship
-🚀 projects to contribute to
-🎯 Internships in Backend development ,Cloud integration or software engineering
-💡 Collaboration on interesting coding challenges
-📚 Guidance on career development in tech and systems architecture
-
 ---
 
 ⚡ JAVA × CLOUD × SYSTEM DESIGN 
@@ -220,6 +195,17 @@ Looking For:
 🚀 Engineering Power Signal
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer&animation=fadeIn&fontColor=00F7FF" /> </div>
 
+
+ ## 🌌 My Coding Philosophy
+
+*"Every line of code is a learning opportunity. I believe in building, breaking, fixing, and improving. The journey of mastering 20+ programming languages is not about perfection, but about understanding different paradigms and finding the right tool for each problem."*
+
+Looking For:
+🤝 Learning opportunities and mentorship
+🚀 projects to contribute to
+🎯 Internships in Backend development ,Cloud integration or software engineering
+💡 Collaboration on interesting coding challenges
+📚 Guidance on career development in tech and systems architecture
 
 © 2026 Daniel Maina  | Aspiring Software Engineer  
 Nairobi, Kenya | kavana.daniel1@gmail.com
