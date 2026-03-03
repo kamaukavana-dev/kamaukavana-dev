@@ -201,9 +201,13 @@ echo "✅ Setup complete! Happy coding! 🎉"
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer&animation=fadeIn&fontColor=00F7FF" /> </div>
 
 
- ## 🌌 My Coding Philosophy
+🌌 My Coding Philosophy
 
-*"Every line of code is a learning opportunity. I believe in building, breaking, fixing, and improving. The journey of mastering 20+ programming languages is not about perfection, but about understanding different paradigms and finding the right tool for each problem."*
+“Algorithms decide efficiency. Architecture decides survival. Infrastructure decides scale.”
+
+Which layer do you truly control?
+
+If your knowledge vanished tomorrow and only first principles remained — would you still be dangerous?
 
 Looking For:
 🤝 Learning opportunities and mentorship
