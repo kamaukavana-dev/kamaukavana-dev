@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="Daniel Maina_ architect of the future.png" width="100%" />
-</div>
-<div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&height=100&lines=🚀+Aspiring+Full-Stack+Developer;🤖+AI+%26+Automation+Enthusiast;💻+Polyglot+Programmer;🎯+Problem+Solver;🔥+Always+Learning" alt="Animated Typing Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&height=100&lines=🚀+Aspiring+Devop+Engineer;🤖+AI+%26+Automation+Enthusiast;💻+SpringBoot+ Developer;🎯+Problem+Solver;🔥+Always+Learning" alt="Animated Typing Header" />
 
 <!-- Animated Gradient Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
@@ -49,23 +45,10 @@ const aspiringEngineer = {
   status: "I dont just write code ,I architect the future 🤺"
 };
 ```
-
-🎮 Programming Languages — 20+ Languages
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,go,rust,kotlin,swift,ruby,php,dart,r,solidity,matlab" />
-<img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,django,flask,spring,tailwind,threejs" />
+  <img src="Daniel Maina_ architect of the future.png" width="100%" />
 </div>
-🏆 Language Proficiency Matrix
-
-| Strong Proficiency | Intermediate | Learning Actively | Exploring |
-|------------------|-------------|-----------------|-----------|
-| ![Python](https://img.shields.io/badge/Python-Strong-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=000) | ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=000) | ![C](https://img.shields.io/badge/C-Learning-A8B9CC?logo=c&logoColor=black&style=for-the-badge&labelColor=000) | ![Rust](https://img.shields.io/badge/Rust-Exploring-000000?logo=rust&logoColor=white&style=for-the-badge&labelColor=000) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-Strong-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=000) | ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge&labelColor=000) | ![Ruby](https://img.shields.io/badge/Ruby-Learning-CC342D?logo=ruby&logoColor=white&style=for-the-badge&labelColor=000) | ![Go](https://img.shields.io/badge/Go-Exploring-00ADD8?logo=go&logoColor=white&style=for-the-badge&labelColor=000) |
-| ![Java](https://img.shields.io/badge/Java-Strong-007396?logo=java&logoColor=white&style=for-the-badge&labelColor=000) | ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge&labelColor=000) | ![Swift](https://img.shields.io/badge/Swift-Learning-FA7343?logo=swift&logoColor=white&style=for-the-badge&labelColor=000) | ![Dart](https://img.shields.io/badge/Dart-Exploring-0175C2?logo=dart&logoColor=white&style=for-the-badge&labelColor=000) |
-| ![HTML5](https://img.shields.io/badge/HTML5-Strong-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=000) | ![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?logo=php&logoColor=white&style=for-the-badge&labelColor=000) | ![Shell](https://img.shields.io/badge/Shell-Learning-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge&labelColor=000) | ![R](https://img.shields.io/badge/R-Exploring-276DC3?logo=r&logoColor=white&style=for-the-badge&labelColor=000) |
-| ![CSS3](https://img.shields.io/badge/CSS3-Strong-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=000) | ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=000) | ![MATLAB](https://img.shields.io/badge/MATLAB-Learning-0076A8?logo=mathworks&logoColor=white&style=for-the-badge&labelColor=000) | ![Solidity](https://img.shields.io/badge/Solidity-Exploring-363636?logo=solidity&logoColor=white&style=for-the-badge&labelColor=000) |
-
+<div align="center">
 ---
 ---
 ## 🌀 Tech Ecosystem Visualizations
@@ -239,28 +222,13 @@ Looking For:
 </div>
 🛰 Animated Tech Orbit (Rotating Illusion)
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+%E2%9C%95+Spring+Boot;Docker+%E2%9C%95+Kubernetes;AWS+%E2%9C%95+Terraform;Kafka+%E2%9C%95+Redis;Microservices+%E2%9C%95+Event+Driven;CI%2FCD+%E2%9C%95+Observability" /> <br> <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,gcp,terraform,redis,kafka,postgres,linux,nginx&perline=6" /> </div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamaukavana-dev&theme=tokyonight" width="95%"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamaukavana-dev&theme=tokyonight&utcOffset=3" width="60%"/> </div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamaukavana-dev&theme=tokyonight" width="95%"/> <br> 
 🧬 Observability Stack (Minimal Words)
 <div align="center"> <img src="https://skillicons.dev/icons?i=prometheus,grafana,docker,kubernetes,linux" />
-
-
-
-
-
-
 </div>
 🔐 Secure Infrastructure Grid
 🏆 Architecture Tier Indicators
 <div align="center">
-
-
-
-
-
-
-
-
-
 
 </div>
 🚀 Engineering Power Signal
@@ -270,12 +238,4 @@ Looking For:
 © 2024 Daniel Maina  | Aspiring Full-Stack Developer  
 Nairobi, Kenya | kavana.daniel1@gmail.com
 
-
-<img src="https://img.shields.io/badge/VIEW_SOURCE-000000?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
-
-
 ```
-
-
