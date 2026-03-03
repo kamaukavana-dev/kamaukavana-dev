@@ -1,5 +1,5 @@
-<!-- 4D Graffiti-Style DanielMaina -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&weight=900&duration=3000&pause=500&center=true&width=800&height=120&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,8B00FF&lines=🔥🔥+DANIEL MAINA" alt="DANIEL MAINA 4D Graffiti" />
+<!-- Static 4D-Style Name DANIELMAINA -->
+<img src="https://dummyimage.com/1000x200/000000/00ffdd&text=DANIELMAINA" alt="DANIELMAINA 4D Graffiti" style="font-family:Impact, 'Futura Extra Bold', sans-serif; font-size:120px; letter-spacing:5px;" />
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=00F7FF&center=true&width=1200&height=100&lines=🚀+Aspiring+DevOps+Engineer;🤖+AI+%26+Automation+Enthusiast;💻+Spring+Boot+Developer;🎯+Problem+Solver;🔥+Always+Learning" alt="Animated Typing Header" />
 
