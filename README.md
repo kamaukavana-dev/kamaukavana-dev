@@ -1,33 +1,5 @@
-<!-- 4D Pop-Out Name DanielMaina -->
-<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#00FFDD"/>
-      <stop offset="50%" stop-color="#00BFFF"/>
-      <stop offset="100%" stop-color="#FF00FF"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-        font-family="Fira Code, monospace" font-size="60" font-weight="800"
-        fill="url(#gradient)" filter="url(#glow)">
-    DanielMaina
-  </text>
-
-  <!-- Extra layered shadows for 4D pop effect -->
-  <text x="51%" y="51%" text-anchor="middle" dominant-baseline="middle"
-        font-family="Fira Code, monospace" font-size="60" font-weight="800"
-        fill="#00000033" filter="url(#glow)">
-    DanielMaina
-  </text>
-</svg>
+<!-- 4D Graffiti-Style DanielMaina -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&weight=900&duration=3000&pause=500&center=true&width=800&height=120&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,8B00FF&lines=🔥+DanielMaina" alt="DanielMaina 4D Graffiti" />
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=00F7FF&center=true&width=1200&height=100&lines=🚀+Aspiring+DevOps+Engineer;🤖+AI+%26+Automation+Enthusiast;💻+Spring+Boot+Developer;🎯+Problem+Solver;🔥+Always+Learning" alt="Animated Typing Header" />
 
