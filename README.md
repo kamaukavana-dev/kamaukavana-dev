@@ -157,20 +157,40 @@ echo "✅ Setup complete! Happy coding! 🎉"
 📊 Profile Analytics
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&color=00ffff&style=flat-square&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/kamaukavana-dev?color=00ffff&label=FOLLOWERS&style=flat-square" /> <img src="https://img.shields.io/github/stars/kamaukavana-dev?color=00ffff&label=TOTAL+STARS&style=flat-square" /> <img src="https://img.shields.io/github/last-commit/kamaukavana-dev/kamaukavana-dev?color=00ffff&label=PROFILE+UPDATED&style=flat-square" /> </div>
 
-## 🌟 Skill Development Visualizations
+## 🌟 Backend & Cloud Engineering Stack
 
 <div align="center">
-  <!-- Technology Icons -->
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" style="margin: 10px;" />
-  </div>
+
+  <!-- Core Language -->
+  <h3>Core Language</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;" />
+
+  <!-- Backend Framework -->
+  <h3>Backend Framework</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" style="margin: 10px;" />
+
+  <!-- Databases -->
+  <h3>Databases</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="margin: 10px;" />
+
+  <!-- DevOps & Containers -->
+  <h3>DevOps & Containers</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin: 10px;" />
+
+  <!-- API & Testing Tools -->
+  <h3>API & Testing</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" style="margin: 10px;" />
+
+  <!-- Frontend (Supporting Only) -->
+  <h3>Frontend (Supporting)</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="margin: 10px;" />
+
+</div>
 
 ---
 
