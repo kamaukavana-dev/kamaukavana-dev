@@ -74,7 +74,7 @@ const aspiringEngineer = {
 | Platform  | Details                                             | Purpose                        |
 |----------|----------------------------------------------------|--------------------------------|
 | Email    | [kavana.daniel1@gmail.com](mailto:kavana.daniel1@gmail.com) | Professional inquiries         |
-| Portfolio| [kamaukavana-dev.github.io](https://github.com/kamaukavana-dev/personall-portfolio.git) | Project showcase               |
+| Portfolio| [kamaukavana-dev.github.io](https://kamaukavana-dev.github.io/personall-portfolio/) | Project showcase               |
 | LinkedIn | [Daniel Kamau](https://www.linkedin.com/in/daniel-kamau-ab9631389) | Professional networking        |
 | GitHub   | [kamaukavana-dev](https://github.com/kamaukavana-dev) | Code & collaboration           |
 
