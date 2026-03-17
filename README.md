@@ -60,8 +60,38 @@ const aspiringEngineer = {
 ## 🌀 Tech Ecosystem Visualizations
 
 <div align="center">
-<!-- Contribution Snake -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
+  <svg width="600" height="200" viewBox="0 0 600 200">
+
+    <!-- Background -->
+    <rect width="600" height="200" fill="#0d1117"/>
+
+    <!-- Grid -->
+    <g stroke="#30363d" stroke-width="1">
+      <line x1="0" y1="50" x2="600" y2="50"/>
+      <line x1="0" y1="100" x2="600" y2="100"/>
+      <line x1="0" y1="150" x2="600" y2="150"/>
+    </g>
+
+    <!-- Snake -->
+    <circle r="8" fill="#39ff14">
+      <animateMotion dur="6s" repeatCount="indefinite"
+        path="M10,100 L200,100 L200,50 L400,50 L400,150 L580,150"/>
+    </circle>
+
+    <!-- Fruit -->
+    <circle cx="200" cy="100" r="6" fill="red">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="400" cy="50" r="6" fill="orange"/>
+    <circle cx="580" cy="150" r="6" fill="yellow"/>
+
+    <!-- Obstacles (scissors style blocks) -->
+    <rect x="300" y="90" width="20" height="20" fill="#ff5555"/>
+    <rect x="320" y="110" width="20" height="20" fill="#ff5555"/>
+
+  </svg>
+</div>
 <em>Daily Coding Contributions</em>
 
 <!-- Streak Stats -->
