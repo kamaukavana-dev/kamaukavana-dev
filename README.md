@@ -59,8 +59,10 @@ const aspiringEngineer = {
 ---
 ## 🌀 Tech Ecosystem Visualizations
 <div align="center">
-  <h3>⚡ Dev Snake Redux: Shells & Fruits</h3>
-  <img src="./custom-snake.svg" width="100%" alt="Custom Snake"/>
+  <!-- Your contribution snake -->
+  <a href="https://kamaukavana-dev.github.io/github-visualizer/" target="_blank">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </a>
 </div>
 
 <em>Daily Coding Contributions</em>
