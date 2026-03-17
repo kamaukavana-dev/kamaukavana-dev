@@ -184,6 +184,8 @@ echo "✅ Setup complete! Happy coding! 🎉"
 **Frontend (Supporting):**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
+
+---
 ⚡ JAVA × CLOUD × SYSTEM DESIGN 
 🎬 Animated Engineering Banner
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Enterprise%20Java%20%2B%20Cloud%20Engineer&fontSize=42&fontColor=00F7FF&animation=twinkling" /> </div>
