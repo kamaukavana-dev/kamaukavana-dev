@@ -162,48 +162,30 @@ echo "✅ Setup complete! Happy coding! 🎉"
 
 ## 🌟 Backend & Cloud Engineering Stack
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
 
-  <!-- Core Language -->
-  <h3>Core Language</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;" />
-  </div>
+  <!-- Core Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
 
   <!-- Backend Framework -->
-  <h3>Backend Framework</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" style="margin: 10px;" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" />
 
   <!-- Databases -->
-  <h3>Databases</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="margin: 10px;" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" />
 
   <!-- DevOps & Containers -->
-  <h3>DevOps & Containers</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin: 10px;" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" />
 
   <!-- API & Testing Tools -->
-  <h3>API & Testing</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" style="margin: 10px;" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" />
 
   <!-- Frontend (Supporting Only) -->
-  <h3>Frontend (Supporting)</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="margin: 10px;" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" />
 
 </div>
 ⚡ JAVA × CLOUD × SYSTEM DESIGN 
