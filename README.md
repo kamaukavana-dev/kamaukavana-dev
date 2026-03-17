@@ -58,12 +58,10 @@ const aspiringEngineer = {
 ---
 ---
 ## 🌀 Tech Ecosystem Visualizations
+<a href="https://kamaukavana-dev.github.io/github-visualizer/">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</a>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kamaukavana-dev/kamaukavana-dev/main/snake.gif" width="100%" />
-
-</div>
 <em>Daily Coding Contributions</em>
 
 <!-- Streak Stats -->
