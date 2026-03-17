@@ -162,72 +162,28 @@ echo "✅ Setup complete! Happy coding! 🎉"
 
 ## 🌟 Backend & Cloud Engineering Stack
 
-<div align="center">
+**Core Language:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
 
-  <!-- Row 1 -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 50px; margin-bottom: 20px;">
+**Backend Framework:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" />
 
-    <!-- Core Language -->
-    <div style="text-align: center;">
-      <h4>Core Language</h4>
-      <div style="display: flex; gap: 15px; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
-      </div>
-    </div>
+**Databases:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" />
 
-    <!-- Backend Framework -->
-    <div style="text-align: center;">
-      <h4>Backend Framework</h4>
-      <div style="display: flex; gap: 15px; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" />
-      </div>
-    </div>
+**DevOps & Containers:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" />
 
-    <!-- Databases -->
-    <div style="text-align: center;">
-      <h4>Databases</h4>
-      <div style="display: flex; gap: 15px; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" />
-      </div>
-    </div>
+**API & Testing:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" />
 
-  </div>
-
-  <!-- Row 2 -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 50px;">
-
-    <!-- DevOps & Containers -->
-    <div style="text-align: center;">
-      <h4>DevOps & Containers</h4>
-      <div style="display: flex; gap: 15px; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" />
-      </div>
-    </div>
-
-    <!-- API & Testing Tools -->
-    <div style="text-align: center;">
-      <h4>API & Testing</h4>
-      <div style="display: flex; gap: 15px; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" />
-      </div>
-    </div>
-
-    <!-- Frontend (Supporting Only) -->
-    <div style="text-align: center;">
-      <h4>Frontend (Supporting)</h4>
-      <div style="display: flex; gap: 15px; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" />
-      </div>
-    </div>
-
-  </div>
-
-</div>
+**Frontend (Supporting):**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
 ⚡ JAVA × CLOUD × SYSTEM DESIGN 
 🎬 Animated Engineering Banner
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Enterprise%20Java%20%2B%20Cloud%20Engineer&fontSize=42&fontColor=00F7FF&animation=twinkling" /> </div>
