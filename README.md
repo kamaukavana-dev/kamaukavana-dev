@@ -77,7 +77,7 @@ const aspiringEngineer = {
 | Platform  | Details                                             | Purpose                        |
 |----------|----------------------------------------------------|--------------------------------|
 | Email    | [kavana.daniel1@gmail.com](mailto:kavana.daniel1@gmail.com) | Professional inquiries         |
-| Portfolio| [kamaukavana-dev.personalportfolio](personall-portfolio-kappa.vercel.app) | Project showcase               |
+| Portfolio| [kamaukavana-dev.personalportfolio](personall-portfolio-kappa.vercel.app/) | Project showcase               |
 | LinkedIn | [Daniel Kamau](https://www.linkedin.com/in/daniel-kamau-ab9631389) | Professional networking        |
 | GitHub   | [kamaukavana-dev](https://github.com/kamaukavana-dev) | Code & collaboration           |
 
@@ -95,7 +95,7 @@ const aspiringEngineer = {
 ## 📱 Connect & Collaborate
 
 <div align="center">
-<a href="mailto:kavana.daniel1@gmail.com">
+<a href="mailto:kavana.daniel1@gmail.com/">
 <img src="https://img.shields.io/badge/📧_Email-kavana.daniel1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="personall-portfolio-kappa.vercel.app">
