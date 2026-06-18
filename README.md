@@ -22,7 +22,7 @@
   ![Status](https://img.shields.io/badge/Status-🟢_Available-00FF00?style=for-the-badge)
 
   <!-- GitHub Stats -->
-  ![Commits](https://img.shields.io/github/commit-activity/m/kamaukavana-dev?style=for-the-badge&color=0FF7FF)
+  ![Commits](https://img.shields.io/github/commit-activity/m/kamaukavana-dev/kamaukavana-dev?style=for-the-badge&color=0FF7FF)
   ![Followers](https://img.shields.io/github/followers/kamaukavana-dev?style=for-the-badge&color=00FFFF)
 
   <br><em>Updated periodically via GitHub Actions</em>
