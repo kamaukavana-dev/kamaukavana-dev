@@ -141,21 +141,6 @@ fi
 echo "✅ Setup complete! Happy coding! 🎉"
 
 ```
-🌟 2026 Learning & Career Goals
-
-| Goal                                         | Description                                                                                            |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| 🔥 Master Java & Spring Boot                 | Deep dive into enterprise backend development, microservices, and cloud-native architecture.           |
-| ☁️ Cloud Engineering & DevOps                | Expertise in AWS/GCP, Kubernetes, Docker, CI/CD pipelines, monitoring, and distributed systems.        |
-| 💻 Build 15+ Advanced Projects               | Hands-on, production-level projects integrating backend, cloud, and AI components.                     |
-| 🤖 Integrate AI & Automation                 | Implement AI-driven features into backend systems for smarter, scalable applications.                  |
-| 🌐 Deploy 10+ Live Applications              | Showcase full-stack, cloud-integrated, and AI-enhanced apps on public platforms.                       |
-| 📚 Master Algorithms & Data Structures       | Strengthen problem-solving, system design, and coding efficiency.                                      |
-| 🧠 System Design & Architecture              | Design complex architectures: microservices, CI/CD, cloud infrastructure, observability, and security. |
-| 🤝 Contribute to Open-Source & Collaboration | Participate in high-level projects, mentorship, and collaborative engineering.                         |
-| 🎓 Complete Computer Science Fundamentals    | Ensure deep understanding of core CS, OS, networking, databases, and distributed systems.              |
-| 🚀 Continuous Learning & Skill Expansion     | Stay at the cutting edge of programming languages, frameworks, and AI/cloud technologies.              |
-
 ---
 📊 Profile Analytics
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&color=00ffff&style=flat-square&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/kamaukavana-dev?color=00ffff&label=FOLLOWERS&style=flat-square" /> <img src="https://img.shields.io/github/stars/kamaukavana-dev?color=00ffff&label=TOTAL+STARS&style=flat-square" /> <img src="https://img.shields.io/github/last-commit/kamaukavana-dev/kamaukavana-dev?color=00ffff&label=PROFILE+UPDATED&style=flat-square" /> </div>
