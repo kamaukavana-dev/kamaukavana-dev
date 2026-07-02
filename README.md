@@ -72,16 +72,6 @@ const aspiringEngineer = {
 <em>Contribution Streak / Activity Pattern</em>
 
 ---
-## ⚡ HOW TO REACH OUT TO ME :
-
-| Platform  | Details                                             | Purpose                        |
-|----------|----------------------------------------------------|--------------------------------|
-| Email    | [kavana.daniel1@gmail.com](mailto:kavana.daniel1@gmail.com) | Professional inquiries         |
-| Portfolio | [kamaukavana-dev.personalportfolio](https://personall-portfolio-kappa.vercel.app/) | Project showcase | |               |
-| LinkedIn | [Daniel Kamau](https://www.linkedin.com/in/daniel-kamau-ab9631389) | Professional networking        |
-| GitHub   | [kamaukavana-dev](https://github.com/kamaukavana-dev) | Code & collaboration           |
-
-
 ## 🎨 Tech Architecture & Skills
 
 <div align="center">
