@@ -97,42 +97,14 @@ const aspiringEngineer = {
 #!/usr/bin/env bash
 set -e
 
-echo "🚀 Cloning and setting up local dev environments"
+for repo in personall-portfolio German-Chatbot PearlVistaDental_services redmi-tracker; do
+  git clone "https://github.com/kamaukavana-dev/$repo"
+done
 
-# --- Personal Portfolio (Next.js 14 / TypeScript) ---
-git clone https://github.com/kamaukavana-dev/personall-portfolio
-cd personall-portfolio
-npm install
-echo "▶ Run: npm run dev  →  http://localhost:3000"
-cd ..
-
-# --- German-Chatbot / HANS (Next.js + Gemini API) ---
-git clone https://github.com/kamaukavana-dev/German-Chatbot
-cd German-Chatbot
-npm install
-cp .env.example .env
-echo "⚠ Add your GEMINI_API_KEY to .env before running"
-echo "▶ Run: npm run dev  →  web on :5173, AI backend on :3001"
-cd ..
-
-# --- PearlVista Dental (React / Three.js / GSAP) ---
-git clone https://github.com/kamaukavana-dev/PearlVistaDental_services
-cd PearlVistaDental_services
-npm install
-echo "▶ Run: npm run dev  →  http://localhost:5173 (or check repo for actual port)"
-cd ..
-
-# --- Redmi Tracker / GPS Tracker (FastAPI / Python) ---
-git clone https://github.com/kamaukavana-dev/redmi-tracker
-cd redmi-tracker
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-echo "⚠ Requires DATABASE_URL and TELEGRAM_BOT_TOKEN in .env — see repo README"
-echo "▶ Run: uvicorn main:app --reload  →  http://localhost:8000"
-cd ..
-
-echo "✅ All repos cloned. Each service must be started separately — see notes above."
+# Frontend apps (portfolio, German-Chatbot, PearlVistaDental_services): npm install && npm run dev
+# German-Chatbot needs: cp .env.example .env → add GEMINI_API_KEY
+# redmi-tracker (FastAPI): python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt
+#   needs DATABASE_URL + TELEGRAM_BOT_TOKEN in .env → uvicorn main:app --reload
 ```
 ---
 ## 🎨 Tech Architecture & Skills
