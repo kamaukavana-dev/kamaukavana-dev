@@ -65,19 +65,13 @@ const aspiringEngineer = {
 
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Streak" />
-<em>Contribution Streak / Activity Pattern</em>
+
 
 📊 Profile Analytics
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&color=00ffff&style=flat-square&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/kamaukavana-dev?color=00ffff&label=FOLLOWERS&style=flat-square" /> <img src="https://img.shields.io/github/stars/kamaukavana-dev?color=00ffff&label=TOTAL+STARS&style=flat-square" /> <img src="https://img.shields.io/github/last-commit/kamaukavana-dev/kamaukavana-dev?color=00ffff&label=PROFILE+UPDATED&style=flat-square" /> </div>
 
 
 ---
-## 🎨 Tech Architecture & Skills
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,stackoverflow" /><br>
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,nginx,apache" />
-</div>
 
 ---
 ---
@@ -132,6 +126,14 @@ echo "✅ Setup complete! Happy coding! 🎉"
 
 ```
 ---
+
+## 🎨 Tech Architecture & Skills
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,stackoverflow" /><br>
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,nginx,apache" />
+</div>
+
 
 ## 🌟 Backend & Cloud Engineering Stack
 
