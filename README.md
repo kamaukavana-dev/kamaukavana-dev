@@ -133,13 +133,18 @@ done
   </p>
 </div>
 
-🌌 My Coding Philosophy
-“Algorithms decide efficiency. Architecture decides survival. Infrastructure decides scale.”
-Which layer do you truly control?
-If your knowledge vanished tomorrow and only first principles remained — would you still be dangerous?
+<img src="https://raw.githubusercontent.com/kamaukavana-dev/kamaukavana-dev/main/assets/orbit.svg" width="400"/>
+
+
+## 🌌 Engineering Philosophy
+
+> "Programs must be written for people to read, and only incidentally for machines to execute."
+>
+> — Harold Abelson
+
+I strive to build software that is scalable, maintainable, and understandable—not merely functional.
 
 © 2026 Daniel Maina  | Aspiring Software Engineer  
 Nairobi, Kenya 🇰🇪 🇰🇪
 
 
-<img src="https://raw.githubusercontent.com/kamaukavana-dev/kamaukavana-dev/main/assets/orbit.svg" width="400"/>
