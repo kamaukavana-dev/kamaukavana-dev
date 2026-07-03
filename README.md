@@ -115,7 +115,7 @@ done
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=Java+•+Spring+Boot;Docker+•+Kubernetes;AWS+•+Terraform;Kafka+•+Redis;Microservices+•+Event+Driven;CI%2FCD+•+Observability" />
 
-<br><br>
+<br>
 
 ### ☕ Languages
 <img src="https://skillicons.dev/icons?i=java,python,javascript&perline=10"/>
@@ -127,7 +127,7 @@ done
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=10"/>
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,linux,nginx,apache,bash,powershell&perline=10"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,linux,nginx,bash,powershell&perline=10"/>
 
 ### 🔄 Version Control & Collaboration
 <img src="https://skillicons.dev/icons?i=git,github&perline=10"/>
