@@ -50,12 +50,6 @@ const aspiringEngineer = {
   ],
   status: "I dont just write code ,I architect the future 🤺"
 };
-```
-<div align="center">
-  <img src="Daniel Maina_ architect of the future.png" width="100%" />
-</div>
-<div align="center">
----
 ---
 ## 🌀 Tech Ecosystem Visualizations
 <div align="center">
