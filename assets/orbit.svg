@@ -1,1 +1,73 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <circle id="orbitPath" cx="200" cy="200" r="150"/>
+  </defs>
 
+  <!-- static faint orbit ring for visual anchor -->
+  <circle cx="200" cy="200" r="150" fill="none" stroke="#00F7FF" stroke-opacity="0.15" stroke-width="1.5"/>
+
+  <!-- center label -->
+  <text x="200" y="205" text-anchor="middle" font-family="monospace" font-size="14" fill="#00F7FF" opacity="0.6">STACK</text>
+
+  <!-- rotating group: 8 icons evenly spaced at 45deg, radius 150 -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 200 200" to="360 200 200" dur="20s" repeatCount="indefinite"/>
+
+    <!-- icon 1: Java -->
+    <g transform="translate(200,50)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 0 0" to="-360 0 0" dur="20s" repeatCount="indefinite" additive="sum"/>
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" x="-18" y="-18" width="36" height="36"/>
+    </g>
+
+    <!-- icon 2: Spring -->
+    <g transform="translate(306,94) rotate(45,0,0)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="-45 0 0" to="-405 0 0" dur="20s" repeatCount="indefinite" additive="sum"/>
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" x="-18" y="-18" width="36" height="36" transform="rotate(45,0,0)"/>
+    </g>
+
+    <!-- icon 3: Docker -->
+    <g transform="translate(350,200)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 0 0" to="-360 0 0" dur="20s" repeatCount="indefinite" additive="sum"/>
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" x="-18" y="-18" width="36" height="36"/>
+    </g>
+
+    <!-- icon 4: Kubernetes -->
+    <g transform="translate(306,306)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 0 0" to="-360 0 0" dur="20s" repeatCount="indefinite" additive="sum"/>
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" x="-18" y="-18" width="36" height="36"/>
+    </g>
+
+    <!-- icon 5: PostgreSQL -->
+    <g transform="translate(200,350)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 0 0" to="-360 0 0" dur="20s" repeatCount="indefinite" additive="sum"/>
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" x="-18" y="-18" width="36" height="36"/>
+    </g>
+
+    <!-- icon 6: Linux -->
+    <g transform="translate(94,306)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 0 0" to="-360 0 0" dur="20s" repeatCount="indefinite" additive="sum"/>
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" x="-18" y="-18" width="36" height="36"/>
+    </g>
+
+    <!-- icon 7: Git -->
+    <g transform="translate(50,200)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 0 0" to="-360 0 0" dur="20s" repeatCount="indefinite" additive="sum"/>
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" x="-18" y="-18" width="36" height="36"/>
+    </g>
+
+    <!-- icon 8: AWS -->
+    <g transform="translate(94,94)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 0 0" to="-360 0 0" dur="20s" repeatCount="indefinite" additive="sum"/>
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" x="-24" y="-14" width="48" height="28"/>
+    </g>
+  </g>
+</svg>
