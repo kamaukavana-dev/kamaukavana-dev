@@ -107,33 +107,41 @@ done
 #   needs DATABASE_URL + TELEGRAM_BOT_TOKEN in .env → uvicorn main:app --reload
 ```
 ---
-## 🎨 Tech Architecture & Skills
+---
+
+# ⚙️ Tech Stack & Engineering Toolkit
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+%E2%9C%95+Spring+Boot;Docker+%E2%9C%95+Kubernetes;AWS+%E2%9C%95+Terraform;Kafka+%E2%9C%95+Redis;Microservices+%E2%9C%95+Event+Driven;CI%2FCD+%E2%9C%95+Observability" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,gcp,terraform,redis,kafka,postgres,linux,nginx,git,github,vscode,figma,postman,stackoverflow,bash,powershell,apache&perline=11" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=Java+•+Spring+Boot;Docker+•+Kubernetes;AWS+•+Terraform;Kafka+•+Redis;Microservices+•+Event+Driven;CI%2FCD+•+Observability" />
+
+<br><br>
+
+### ☕ Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript&perline=10"/>
+
+### 🚀 Backend Development
+<img src="https://skillicons.dev/icons?i=spring,nodejs&perline=10"/>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=10"/>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,linux,nginx,apache,bash,powershell&perline=10"/>
+
+### 🔄 Version Control & Collaboration
+<img src="https://skillicons.dev/icons?i=git,github&perline=10"/>
+
+### 🛠️ Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,stackoverflow&perline=10"/>
+
+### ⚡ Architecture Focus
+
+`Microservices` • `REST APIs` • `Cloud-Native` • `Event-Driven Systems` • `CI/CD` • `Observability`
+
 </div>
 
-
-## 🌟 Backend & Cloud Engineering Stack
-<div align="center">
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="margin: 10px;" />
-  </p>
-</div>
-
-<img src="https://raw.githubusercontent.com/kamaukavana-dev/kamaukavana-dev/main/assets/orbit.svg" width="400"/>
+---
 
 
 ## 🌌 Engineering Philosophy
