@@ -70,10 +70,6 @@ const aspiringEngineer = {
 📊 Profile Analytics
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&color=00ffff&style=flat-square&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/kamaukavana-dev?color=00ffff&label=FOLLOWERS&style=flat-square" /> <img src="https://img.shields.io/github/stars/kamaukavana-dev?color=00ffff&label=TOTAL+STARS&style=flat-square" /> <img src="https://img.shields.io/github/last-commit/kamaukavana-dev/kamaukavana-dev?color=00ffff&label=PROFILE+UPDATED&style=flat-square" /> </div>
 
-
----
-
----
 ---
 
 ## 📱 Connect & Collaborate
@@ -95,35 +91,48 @@ const aspiringEngineer = {
 
 ---
 
-## 🛠 Development Commands & Setup
+## 🛠 Development & Setup
 
 ```bash
-#!/bin/bash
-echo "🚀 Setting up development environment..."
+#!/usr/bin/env bash
+set -e
 
-# Clone projects
-git clone https://github.com/kamaukavana-dev/shopkenya
+echo "🚀 Cloning and setting up local dev environments"
+
+# --- Personal Portfolio (Next.js 14 / TypeScript) ---
 git clone https://github.com/kamaukavana-dev/personall-portfolio
-git clone https://github.com/kamaukavana-dev/ai-desktop-assistant
+cd personall-portfolio
+npm install
+echo "▶ Run: npm run dev  →  http://localhost:3000"
+cd ..
 
-# Navigate to portfolio
-if [ -d "personall-portfolio" ]; then
-    cd personall-portfolio
-else
-    echo "❌ Folder personall-portfolio not found!"
-    exit 1
-fi
+# --- German-Chatbot / HANS (Next.js + Gemini API) ---
+git clone https://github.com/kamaukavana-dev/German-Chatbot
+cd German-Chatbot
+npm install
+cp .env.example .env
+echo "⚠ Add your GEMINI_API_KEY to .env before running"
+echo "▶ Run: npm run dev  →  web on :5173, AI backend on :3001"
+cd ..
 
-# Open index.html in default browser (Windows)
-echo "🌐 Opening portfolio..."
-if command -v start >/dev/null; then
-    start index.html
-else
-    echo "⚠️ Could not automatically open browser. Open index.html manually."
-fi
+# --- PearlVista Dental (React / Three.js / GSAP) ---
+git clone https://github.com/kamaukavana-dev/PearlVistaDental_services
+cd PearlVistaDental_services
+npm install
+echo "▶ Run: npm run dev  →  http://localhost:5173 (or check repo for actual port)"
+cd ..
 
-echo "✅ Setup complete! Happy coding! 🎉"
+# --- Redmi Tracker / GPS Tracker (FastAPI / Python) ---
+git clone https://github.com/kamaukavana-dev/redmi-tracker
+cd redmi-tracker
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+echo "⚠ Requires DATABASE_URL and TELEGRAM_BOT_TOKEN in .env — see repo README"
+echo "▶ Run: uvicorn main:app --reload  →  http://localhost:8000"
+cd ..
 
+echo "✅ All repos cloned. Each service must be started separately — see notes above."
 ```
 ---
 ## 🎨 Tech Architecture & Skills
@@ -151,7 +160,6 @@ echo "✅ Setup complete! Happy coding! 🎉"
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="margin: 10px;" />
   </p>
 </div>
----
+
   © 2026 Daniel Maina  | Aspiring Software Engineer  
   Nairobi, Kenya 
-```
