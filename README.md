@@ -50,12 +50,6 @@ const aspiringEngineer = {
   ],
   status: "I dont just write code ,I architect the future 🤺"
 };
-```
-<div align="center">
-  <img src="Daniel Maina_ architect of the future.png" width="100%" />
-</div>
-<div align="center">
----
 ---
 ## 🌀 Tech Ecosystem Visualizations
 <div align="center">
@@ -183,19 +177,6 @@ echo "✅ Setup complete! Happy coding! 🎉"
 </div>
 
 ---
-
-⚡ JAVA × CLOUD × SYSTEM DESIGN 
-🎬 Animated Engineering Banner
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Enterprise%20Java%20%2B%20Cloud%20Engineer&fontSize=42&fontColor=00F7FF&animation=twinkling" /> </div>
-🧠 Engineering Radar + Skill Pie Analytics
-
-<div align="center">
-
-<img src="System architecture diagrams in focus.png" width="90%" alt="Daniel Maina - System Architecture Overview" />
-
-<p><em>Integrated view of CI/CD pipeline, Microservices architecture, Cloud infrastructure, and backend + AI integration.</em></p>
-
-</div>
 🛰 Animated Tech Orbit (Rotating Illusion)
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+%E2%9C%95+Spring+Boot;Docker+%E2%9C%95+Kubernetes;AWS+%E2%9C%95+Terraform;Kafka+%E2%9C%95+Redis;Microservices+%E2%9C%95+Event+Driven;CI%2FCD+%E2%9C%95+Observability" /> <br> <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,gcp,terraform,redis,kafka,postgres,linux,nginx&perline=6" /> </div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamaukavana-dev&theme=tokyonight" width="95%"/> <br> 
