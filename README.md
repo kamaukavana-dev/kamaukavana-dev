@@ -136,52 +136,21 @@ echo "✅ Setup complete! Happy coding! 🎉"
 
 
 ## 🌟 Backend & Cloud Engineering Stack
-
 <div align="center">
-
-  <!-- Core Language -->
-  <h3>Core Language</h3>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;" />
-  </p>
-
-  <!-- Backend Framework -->
-  <h3>Backend Framework</h3>
-  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" style="margin: 10px;" />
-  </p>
-
-  <!-- Databases -->
-  <h3>Databases</h3>
-  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" style="margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="margin: 10px;" />
-  </p>
-
-  <!-- DevOps & Containers -->
-  <h3>DevOps & Containers</h3>
-  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" style="margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin: 10px;" />
-  </p>
-
-  <!-- API & Testing Tools -->
-  <h3>API & Testing</h3>
-  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" style="margin: 10px;" />
-  </p>
-
-  <!-- Frontend (Supporting Only) -->
-  <h3>Frontend (Supporting)</h3>
-  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="margin: 10px;" />
   </p>
-
 </div>
-
 ---
 
 🛰 Animated Tech Orbit (Rotating Illusion)
