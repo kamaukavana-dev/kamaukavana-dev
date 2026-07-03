@@ -153,10 +153,10 @@ echo "✅ Setup complete! Happy coding! 🎉"
 </div>
 ---
 
-🛰 Animated Tech Orbit (Rotating Illusion)
+🛰 Animated Tech Orbit
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+%E2%9C%95+Spring+Boot;Docker+%E2%9C%95+Kubernetes;AWS+%E2%9C%95+Terraform;Kafka+%E2%9C%95+Redis;Microservices+%E2%9C%95+Event+Driven;CI%2FCD+%E2%9C%95+Observability" /> <br> <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,gcp,terraform,redis,kafka,postgres,linux,nginx&perline=6" /> </div>
 
-© 2026 Daniel Maina  | Aspiring Software Engineer  
-Nairobi, Kenya | kavana.daniel1@gmail.com
+                    © 2026 Daniel Maina  | Aspiring Software Engineer  
+                    Nairobi, Kenya | 
 
 ```
