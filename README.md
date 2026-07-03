@@ -154,5 +154,4 @@ echo "✅ Setup complete! Happy coding! 🎉"
 ---
   © 2026 Daniel Maina  | Aspiring Software Engineer  
   Nairobi, Kenya 
-
 ```
