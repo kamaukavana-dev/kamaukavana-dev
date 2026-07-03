@@ -182,33 +182,6 @@ echo "✅ Setup complete! Happy coding! 🎉"
 
 🛰 Animated Tech Orbit (Rotating Illusion)
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+%E2%9C%95+Spring+Boot;Docker+%E2%9C%95+Kubernetes;AWS+%E2%9C%95+Terraform;Kafka+%E2%9C%95+Redis;Microservices+%E2%9C%95+Event+Driven;CI%2FCD+%E2%9C%95+Observability" /> <br> <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws,gcp,terraform,redis,kafka,postgres,linux,nginx&perline=6" /> </div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamaukavana-dev&theme=tokyonight" width="95%"/> <br> 
-🧬 Observability Stack (Minimal Words)
-<div align="center"> <img src="https://skillicons.dev/icons?i=prometheus,grafana,docker,kubernetes,linux" />
-</div>
-🔐 Secure Infrastructure Grid
-🏆 Architecture Tier Indicators
-<div align="center">
-
-</div>
-🚀 Engineering Power Signal
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer&animation=fadeIn&fontColor=00F7FF" /> </div>
-
-
-🌌 My Coding Philosophy
-
-“Algorithms decide efficiency. Architecture decides survival. Infrastructure decides scale.”
-
-Which layer do you truly control?
-
-If your knowledge vanished tomorrow and only first principles remained — would you still be dangerous?
-
-Looking For:
-🤝 Learning opportunities and mentorship
-🚀 projects to contribute to
-🎯 Internships in Backend development ,Cloud integration or software engineering
-💡 Collaboration on interesting coding challenges
-📚 Guidance on career development in tech and systems architecture
 
 © 2026 Daniel Maina  | Aspiring Software Engineer  
 Nairobi, Kenya | kavana.daniel1@gmail.com
