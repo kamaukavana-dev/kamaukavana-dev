@@ -35,7 +35,7 @@
 ```javascript
 const aspiringEngineer = {
   identity: "Daniel Maina ",
-  title: "Aspiring Software Engineer & AI Enthusiast",
+  title: "Aspiring Software Engineer & Devops Engineer",
   location: "Nairobi, Kenya 🇰🇪 🇰🇪",
   education: "Computer Science Student",
   philosophy: "Build, Learn, Iterate, Improve",
@@ -133,5 +133,10 @@ done
   </p>
 </div>
 
-  © 2026 Daniel Maina  | Aspiring Software Engineer  
-  Nairobi, Kenya 
+🌌 My Coding Philosophy
+“Algorithms decide efficiency. Architecture decides survival. Infrastructure decides scale.”
+Which layer do you truly control?
+If your knowledge vanished tomorrow and only first principles remained — would you still be dangerous?
+
+© 2026 Daniel Maina  | Aspiring Software Engineer  
+Nairobi, Kenya 🇰🇪 🇰🇪
