@@ -54,10 +54,9 @@ const aspiringEngineer = {
 ---
 ---
 ## 🌀 Tech Ecosystem Visualizations
-
 <div align="center">
   <!-- Your contribution snake -->
-  <a href="https://kamaukavana-dev.github.io/github-visualizer/" target="_blank">
+  <a href="https://kamaukavana-dev/github-visualizer/" target="_blank">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </a>
 </div>
