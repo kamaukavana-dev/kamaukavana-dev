@@ -72,10 +72,13 @@ const aspiringEngineer = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&label=👁️%20PROFILE%20VIEWS&style=for-the-badge&color=00F7FF" />
-<img src="https://img.shields.io/github/followers/kamaukavana-dev?label=👥%20FOLLOWERS&style=for-the-badge&color=00F7FF" />
-<img src="https://img.shields.io/github/stars/kamaukavana-dev?label=⭐%20TOTAL%20STARS&style=for-the-badge&color=00F7FF" />
-<img src="https://img.shields.io/github/last-commit/kamaukavana-dev/kamaukavana-dev?label=🚀%20PROFILE%20UPDATED&style=for-the-badge&color=00F7FF" />
+<img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&label=👁️%20PROFILE%20VIEWS&style=for-the-badge&color=3B82F6"/>
+
+<img src="https://img.shields.io/github/followers/kamaukavana-dev?label=👥%20FOLLOWERS&style=for-the-badge&color=A855F7"/>
+
+<img src="https://img.shields.io/github/stars/kamaukavana-dev?label=⭐%20TOTAL%20STARS&style=for-the-badge&color=FACC15"/>
+
+<img src="https://img.shields.io/github/last-commit/kamaukavana-dev/kamaukavana-dev?label=🚀%20PROFILE%20UPDATED&style=for-the-badge&color=22C55E"/>
 
 </div>
 
