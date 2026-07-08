@@ -56,24 +56,28 @@ const aspiringEngineer = {
 ```
 ---
 ---
-## 🌀 Tech Ecosystem Visualizations
-<div align="center">
-  <!-- Your contribution snake -->
-  <a href="https://kamaukavana-dev/github-visualizer/" target="_blank">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </a>
-</div>
+# 🌀 Developer Ecosystem & Analytics
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev&theme=react-dark&hide_border=true&area=true">
+<!-- Contribution Snake -->
+<a href="https://kamaukavana-dev.github.io/github-visualizer/" target="_blank">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</a>
 
-</div>
-<!-- Streak Stats -->
+<br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+<br>
+
+<!-- Contribution Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Streak" />
 
-# 📊 Profile Analytics
+<br><br>
 
-<div align="center">
+# 📊 Profile Analytics
 
 <img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
 
