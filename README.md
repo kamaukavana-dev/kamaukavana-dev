@@ -119,6 +119,11 @@ done
 
 <br>
 
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
 ### ☕ Languages
 <img src="https://skillicons.dev/icons?i=java,python,javascript&perline=10"/>
 
@@ -128,6 +133,10 @@ done
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=10"/>
 
+</td>
+
+<td valign="top" width="50%">
+
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,linux,nginx,bash,powershell&perline=10"/>
 
@@ -136,6 +145,11 @@ done
 
 ### 🛠️ Development Tools
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,stackoverflow&perline=10"/>
+
+</td>
+
+</tr>
+</table>
 
 ### ⚡ Architecture Focus
 
