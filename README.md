@@ -53,6 +53,14 @@ const aspiringEngineer = {
 ```
 ---
 ---
+## 💻 Matrix Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev&theme=react-dark&hide_border=true&area=true">
+
+</div>
+
 ## ⚡ Coding Activity
 
 <div align="center">
