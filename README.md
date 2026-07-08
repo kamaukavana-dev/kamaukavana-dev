@@ -7,7 +7,7 @@
 ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 </pre>
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=8B5CF6&center=true&width=1200&height=100&lines=☕+Java+Backend+Engineer;🌱+Spring+Boot+Developer;🏗️+Backend+Software+Engineer;☁️+Cloud+Engineer;🚀+Software+Architect" alt="Animated Typing Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=2563EB&center=true&width=1200&height=100&lines=☕+Java+Backend+Engineer;🌱+Spring+Boot+Developer;🏗️+Backend+Software+Engineer;☁️+Cloud+Engineer;🚀+Software+Architect" alt="Animated Typing Header" />
 
 <!-- Animated Gradient Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
@@ -75,10 +75,13 @@ const aspiringEngineer = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&label=PROFILE%20VIEWS&color=C770F0&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/kamaukavana-dev?label=FOLLOWERS&style=for-the-badge&color=C770F0" />
-<img src="https://img.shields.io/github/stars/kamaukavana-dev?label=TOTAL%20STARS&style=for-the-badge&color=C770F0" />
-<img src="https://img.shields.io/github/last-commit/kamaukavana-dev/kamaukavana-dev?label=PROFILE%20UPDATED&style=for-the-badge&color=C770F0" />
+<img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/kamaukavana-dev?label=FOLLOWERS&style=for-the-badge&color=2563EB" />
+
+<img src="https://img.shields.io/github/stars/kamaukavana-dev?label=TOTAL%20STARS&style=for-the-badge&color=2563EB" />
+
+<img src="https://img.shields.io/github/last-commit/kamaukavana-dev/kamaukavana-dev?label=PROFILE%20UPDATED&style=for-the-badge&color=2563EB" />
 
 </div>
 
