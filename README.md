@@ -88,31 +88,23 @@ const aspiringEngineer = {
 <div align="center">
 
 <a href="https://personall-portfolio-kappa.vercel.app" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" height="55" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐_Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/kamaukavana-dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/daniel-kamau-ab9631389" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:kavana.daniel1@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55" alt="Email"/>
+  <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://wa.me/254796367272" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="55" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 </div>
