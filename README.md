@@ -53,11 +53,11 @@ const aspiringEngineer = {
 ```
 ---
 ---
-## 🏙️ Contribution Skyline
+## 🌌 3D Contribution Calendar
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/example/profile-night-rainbow.svg">
+<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/example/profile-season-animate.svg">
 
 </div>
 ## 💻 Matrix Contributions
