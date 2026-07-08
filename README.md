@@ -7,25 +7,26 @@
 ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 </pre>
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=FF3B30&center=true&width=1200&height=100&lines=☕+Java+Backend+Engineer;🌱+Spring+Boot+Developer;🏗️+Backend+Software+Engineer;☁️+Cloud+Engineer;🚀+Software+Architect" alt="Animated Typing Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=8B5CF6&center=true&width=1200&height=100&lines=☕+Java+Backend+Engineer;🌱+Spring+Boot+Developer;🏗️+Backend+Software+Engineer;☁️+Cloud+Engineer;🚀+Software+Architect" alt="Animated Typing Header" />
 
 <!-- Animated Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30,FF1744,DC2626&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
 <div align="center">
   <h4>🕒 Live Stats (Simulated)</h4>
 
-  <!-- Local Time Badge -->
-  ![Local Time](https://img.shields.io/badge/Local_Time-🕒_Africa%2FNairobi-FF3B30?style=for-the-badge&logo=clock)
+  <!-- Local Time -->
+  ![Local Time](https://img.shields.io/badge/Local_Time-🕒_Africa%2FNairobi-3B82F6?style=for-the-badge&logo=clock&logoColor=white)
 
-  <!-- Availability Status Badge -->
-  ![Status](https://img.shields.io/badge/Status-🟢_Available-006400?style=for-the-badge)
+  <!-- Status -->
+  ![Status](https://img.shields.io/badge/Status-🟢_Available-15803D?style=for-the-badge)
 
   <!-- GitHub Stats -->
-  ![Commits](https://img.shields.io/github/commit-activity/m/kamaukavana-dev/kamaukavana-dev?style=for-the-badge&color=DC2626)
-  ![Followers](https://img.shields.io/github/followers/kamaukavana-dev?style=for-the-badge&color=B91C1C)
+  ![Commits](https://img.shields.io/github/commit-activity/m/kamaukavana-dev/kamaukavana-dev?style=for-the-badge&color=E53935)
+
+  ![Followers](https://img.shields.io/github/followers/kamaukavana-dev?style=for-the-badge&color=8B5CF6)
 
   <br><em>Updated periodically via GitHub Actions</em>
 </div>
