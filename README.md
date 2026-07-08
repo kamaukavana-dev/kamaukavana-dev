@@ -7,7 +7,7 @@
 ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 </pre>
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=00F7FF&center=true&width=1200&height=100&lines=🚀+Aspiring+DevOps+Engineer;🤖+AI+%26+Automation+Enthusiast;💻+Spring+Boot+Developer;🎯+Problem+Solver;🔥+Always+Learning" alt="Animated Typing Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&weight=600&duration=4000&pause=1000&color=00F7FF&center=true&width=1200&height=100&lines=☕+Java+Backend+Engineer;🌱+Spring+Boot+Developer;🏗️+Backend+Software+Engineer;☁️+Cloud+Engineer;🚀+Software+Architect" alt="Animated Typing Header" />
 
 <!-- Animated Gradient Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome+to+My+Code+Universe&fontSize=40&fontColor=ffffff&animation=fadeIn" />
