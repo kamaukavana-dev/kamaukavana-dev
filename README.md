@@ -53,12 +53,12 @@ const aspiringEngineer = {
 ```
 ---
 ---
-## 🌀 Tech Ecosystem Visualizations
+## 👾 Pac-Man Contribution Graph
+
 <div align="center">
-  <!-- Your contribution snake -->
-  <a href="https://kamaukavana-dev.github.io/github-visualizer/" target="_blank">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </a>
+
+<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman-contribution-graph.svg">
+
 </div>
 
 <em>Daily Coding Contributions</em>
