@@ -53,11 +53,11 @@ const aspiringEngineer = {
 ```
 ---
 ---
-## 👾 Pac-Man Contribution Graph
+## ⚡ Coding Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman-contribution-graph.svg">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev&theme=tokyo-night&hide_border=true&area=true">
 
 </div>
 
