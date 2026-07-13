@@ -149,14 +149,22 @@ done
 
 ## ⚙️ Production Backend Services
 
-> Enterprise-grade backend services designed with production-ready architecture, secure authentication, scalable persistence, caching, and cloud deployment.
+> Production-ready backend systems built with modern Java, cloud-native deployment, scalable persistence, caching, and secure API design.
 
-| 🚀 Service | 📝 Description | ⚙️ Tech Stack | 🟢 Status | 🔗 Live |
-|------------|---------------|---------------|:--------:|---------|
-| 🔐 **User Management API** | Production-grade authentication and user management service featuring JWT authentication, role-based authorization, Redis-powered rate limiting, PostgreSQL persistence, and Dockerized deployment. | Java 21 • Spring Boot • PostgreSQL • Redis • Docker | 🟢 **Live** | [API](https://usermanagement-api-oowr.onrender.com) • [Repository](https://github.com/kamaukavana-dev/UserManagement-API) |
-| 📦 **Catalog API** | Enterprise-grade catalog and inventory platform supporting multi-warehouse management, optimistic locking, Redis caching, AWS S3 media storage, and production observability. | Java 21 • Spring Boot • PostgreSQL • Redis • AWS S3 • Docker | 🟢 **Live** | [API](https://catalog-api-4hon.onrender.com) • [Repository](https://github.com/kamaukavana-dev/Catalog-Api) |
-| 📊 **GitHub README Tracker** | Automated backend service powering my GitHub profile by collecting repository analytics and exposing them through REST endpoints. Continuously deployed on Railway. | Java • Spring Boot • Railway • GitHub API | 🟢 **Live** | [Service](https://fastapi-production-9fb1.up.railway.app) • [Repository](https://github.com/kamaukavana-dev/redmi-tracker) |
+| 🚀 Service | 📝 Description | ⚙️ Technologies | 🟢 Status | 🔗 Links |
+|------------|---------------|----------------|:--------:|---------|
+| 🔐 **User Management API** | Enterprise-grade authentication and user management service featuring JWT authentication, role-based authorization, Redis-powered rate limiting, PostgreSQL persistence, and Dockerized deployment. | Java 21 • Spring Boot • PostgreSQL • Redis • Docker | 🟢 **Live** | [🌐 API](https://usermanagement-api-oowr.onrender.com) • [📂 Repository](https://github.com/kamaukavana-dev/UserManagement-API) |
+| 📦 **Catalog API** | Enterprise-grade product catalog and inventory platform supporting multi-warehouse management, optimistic locking, Redis caching, AWS S3 media storage, and production observability. | Java 21 • Spring Boot • PostgreSQL • Redis • AWS S3 • Docker | 🟢 **Live** | [🌐 API](https://catalog-api-4hon.onrender.com) • [📂 Repository](https://github.com/kamaukavana-dev/Catalog-Api) |
+| 📍 **Real-Time Phone Tracker** | Secure backend service for real-time phone location tracking, exposing REST APIs for live location updates, device monitoring, and tracking operations. Deployed on Railway. | Java • Spring Boot • Railway • REST API | 🟢 **Live** | [🌐 API](https://fastapi-production-9fb1.up.railway.app) • [📂 Repository](https://github.com/kamaukavana-dev/redmi-tracker) |
 
+
+## 📊 Production Overview
+
+- 🚀 **7** Live Production Deployments
+- ⚙️ **3** Production Backend Services
+- 🌐 **4** Public Web Applications
+- ☁️ Deployed on **Render**, **Railway**, and **Vercel**
+- 🛠️ Built with **Java • Spring Boot • React • Next.js • PostgreSQL • Redis • Docker**
 ---
 
 # ⚙️ Tech Stack & Engineering Toolkit
