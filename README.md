@@ -134,6 +134,41 @@ done
 #   needs DATABASE_URL + TELEGRAM_BOT_TOKEN in .env → uvicorn main:app --reload
 ```
 ---
+## 🚀 Featured Deployments
+
+### 🛒 Jibambe Ecommerce
+> A modern ecommerce platform built with a focus on speed, usability, and clean shopping experiences.
+
+**Tech:** React • Tailwind CSS • Vercel
+
+🔗 https://jibambe-ecommerce.vercel.app
+
+---
+
+### 👨‍💻 Personal Portfolio
+> My interactive portfolio showcasing projects, technologies, and software engineering journey.
+
+**Tech:** Next.js • React • Three.js • Tailwind CSS
+
+🔗 https://personall-portfolio-kappa.vercel.app
+
+---
+
+### 🦷 Pearl Vista Dental Services
+> Professional dental clinic website with elegant UI and modern branding.
+
+**Tech:** React • Tailwind CSS
+
+🔗 https://pearl-vista-dental-services.vercel.app
+
+---
+
+### 🇩🇪 German AI Chatbot
+> AI language tutor designed to help learners practice German through intelligent conversations.
+
+**Tech:** React • Gemini API • AI
+
+🔗 https://german-chatbot.vercel.app
 ---
 
 # ⚙️ Tech Stack & Engineering Toolkit
