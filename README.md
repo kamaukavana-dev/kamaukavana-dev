@@ -134,41 +134,33 @@ done
 #   needs DATABASE_URL + TELEGRAM_BOT_TOKEN in .env → uvicorn main:app --reload
 ```
 ---
-## 🚀 Featured Deployments
+## 🚀 Live Applications
 
-### 🛒 Jibambe Ecommerce
-> A modern ecommerce platform built with a focus on speed, usability, and clean shopping experiences.
+> A selection of production deployments showcasing full-stack engineering, modern UI development, and AI-powered applications.
 
-**Tech:** React • Tailwind CSS • Vercel
-
-🔗 https://jibambe-ecommerce.vercel.app
-
----
-
-### 👨‍💻 Personal Portfolio
-> My interactive portfolio showcasing projects, technologies, and software engineering journey.
-
-**Tech:** Next.js • React • Three.js • Tailwind CSS
-
-🔗 https://personall-portfolio-kappa.vercel.app
+| 🌐 Project | 📝 Description | ⚙️ Tech Stack | 🔗 Live |
+|------------|---------------|---------------|---------|
+| 🛒 **Jibambe Ecommerce** | Modern ecommerce platform featuring a responsive shopping experience and product management. | React • Tailwind CSS • Vercel | [Launch](https://jibambe-ecommerce.vercel.app) |
+| 👨‍💻 **Personal Portfolio** | Interactive developer portfolio highlighting projects, skills, and professional journey. | Next.js • React • Three.js • Tailwind CSS | [Launch](https://personall-portfolio-kappa.vercel.app) |
+| 🦷 **Pearl Vista Dental** | Professional website for a dental clinic with modern branding and service presentation. | React • Tailwind CSS • Vercel | [Launch](https://pearl-vista-dental-services.vercel.app) |
+| 🇩🇪 **German AI Chatbot** | AI-powered German language learning assistant with conversational practice and intelligent feedback. | React • AI • Gemini API | [Launch](https://german-chatbot.vercel.app) |
 
 ---
 
-### 🦷 Pearl Vista Dental Services
-> Professional dental clinic website with elegant UI and modern branding.
-
-**Tech:** React • Tailwind CSS
-
-🔗 https://pearl-vista-dental-services.vercel.app
-
----
-
-### 🇩🇪 German AI Chatbot
-> AI language tutor designed to help learners practice German through intelligent conversations.
-
-**Tech:** React • Gemini API • AI
-
-🔗 https://german-chatbot.vercel.app
+<p align="center">
+  <a href="https://jibambe-ecommerce.vercel.app">
+    <img src="https://img.shields.io/badge/Ecommerce-Live-success?style=for-the-badge&logo=vercel">
+  </a>
+  <a href="https://personall-portfolio-kappa.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel">
+  </a>
+  <a href="https://pearl-vista-dental-services.vercel.app">
+    <img src="https://img.shields.io/badge/Dental-Live-orange?style=for-the-badge&logo=vercel">
+  </a>
+  <a href="https://german-chatbot.vercel.app">
+    <img src="https://img.shields.io/badge/AI%20Chatbot-Live-purple?style=for-the-badge&logo=vercel">
+  </a>
+</p>
 ---
 
 # ⚙️ Tech Stack & Engineering Toolkit
