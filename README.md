@@ -155,12 +155,6 @@ done
 | 🦷 **Pearl Vista Dental Services** | Professional healthcare platform delivering a polished digital presence, responsive design, and modern patient-focused experience. | React • Tailwind CSS • Vercel | 🟢 **Live** | [🌍 Launch](https://pearl-vista-dental-services.vercel.app) |
 | 🇩🇪 **German AI Chatbot** | AI-powered language learning assistant enabling conversational German practice with intelligent feedback and real-time AI interactions. | React • Gemini API • AI | 🟢 **Live** | [🌍 Launch](https://german-chatbot.vercel.app) |
 
-
-> ### 🔒 Architecture & Security
->
-> - **Minimal Public Surface:** The public **Live API (Secure Probe)** endpoint intentionally exposes only a lightweight health response (`ok`) to verify service availability without revealing operational details.
-> - **Protected Management Endpoints:** Internal diagnostics, metrics, and management endpoints are isolated from the public interface and reserved for operational monitoring, reducing unnecessary exposure of infrastructure details.
-
 ---
 
 ## ⚙️ Production Backend Services
@@ -172,6 +166,10 @@ done
 | 📦 **Catalog API** | Enterprise-grade product catalog and inventory platform supporting multi-warehouse inventory management, optimistic locking, Redis caching, AWS S3 media storage, Flyway database migrations, structured observability, and scalable REST architecture. | Java 21 • Spring Boot • PostgreSQL • Redis • AWS S3 • Docker • Flyway | 🟢 **Live** | [🌐 Health Check](https://catalog-api-4hon.onrender.com/ping) • [📂 Repository](https://github.com/kamaukavana-dev/Catalog-Api) |
 | 🔐 **User Management API** | Enterprise-grade identity and access management service implementing JWT authentication, role-based authorization, refresh tokens, Redis-powered distributed rate limiting, PostgreSQL persistence, Dockerized deployment, and production security best practices. | Java 21 • Spring Boot • PostgreSQL • Redis • Docker • JWT • Swagger | 🟢 **Live** | [🌐 Health Check](https://usermanagement-api-oowr.onrender.com/api/v1/actuator/health) • [📖 Swagger Docs](https://usermanagement-api-oowr.onrender.com/api/v1/swagger-ui.html) • [📂 Repository](https://github.com/kamaukavana-dev/UserManagement-API) |
 | 📍 **Real-Time GPS Tracking Platform** | Production GPS tracking backend featuring live device tracking, geofence monitoring, automatic breach detection, Telegram push notifications, historical location analytics, scheduled background processing, secure API-key authentication, and cloud deployment. | Python 3.12 • FastAPI • PostgreSQL • SQLAlchemy • APScheduler • Telegram Bot API • Railway | 🟢 **Live** | [🌐 Live Service](https://fastapi-production-9fb1.up.railway.app) • [📖 Swagger Docs](https://fastapi-production-9fb1.up.railway.app/docs) • [📂 Repository](https://github.com/kamaukavana-dev/redmi-tracker) |
+> ### 🔒 Architecture & Security
+>
+> - **Minimal Public Surface:** The public **Live API (Secure Probe)** endpoint intentionally exposes only a lightweight health response (`ok`) to verify service availability without revealing operational details.
+> - **Protected Management Endpoints:** Internal diagnostics, metrics, and management endpoints are isolated from the public interface and reserved for operational monitoring, reducing unnecessary exposure of infrastructure details.
 ---
 
 # ⚙️ Tech Stack & Engineering Toolkit
