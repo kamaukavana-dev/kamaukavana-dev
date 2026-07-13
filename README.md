@@ -134,37 +134,26 @@ done
 #   needs DATABASE_URL + TELEGRAM_BOT_TOKEN in .env → uvicorn main:app --reload
 ```
 ---
-## 🚀 Live Applications
+📊 Production Overview
 
-> Production deployments showcasing modern frontend engineering, responsive user experiences, and AI-powered applications.
-
-| 🌐 Project | 📝 Description | ⚙️ Tech Stack | 🟢 Status | 🔗 Live |
-|------------|---------------|---------------|:--------:|---------|
-| 🛒 **Jibambe Ecommerce** | Modern ecommerce platform featuring a responsive shopping experience, intuitive product browsing, and scalable frontend architecture. | React • Tailwind CSS • Vercel | 🟢 **Live** | [Launch](https://jibambe-ecommerce.vercel.app) |
-| 👨‍💻 **Personal Portfolio** | Interactive developer portfolio showcasing projects, technical expertise, and software engineering journey with immersive 3D experiences. | Next.js • React • Three.js • Tailwind CSS | 🟢 **Live** | [Launch](https://personall-portfolio-kappa.vercel.app) |
-| 🦷 **Pearl Vista Dental Services** | Professional healthcare website delivering a modern digital presence with responsive design and service-focused user experience. | React • Tailwind CSS • Vercel | 🟢 **Live** | [Launch](https://pearl-vista-dental-services.vercel.app) |
-| 🇩🇪 **German AI Chatbot** | AI-powered language learning platform enabling conversational German practice with intelligent real-time feedback. | React • Gemini API • AI | 🟢 **Live** | [Launch](https://german-chatbot.vercel.app) |
-
----
-
-## ⚙️ Production Backend Services
-
-> Production-ready backend systems built with modern Java, cloud-native deployment, scalable persistence, caching, and secure API design.
-
-| 🚀 Service | 📝 Description | ⚙️ Technologies | 🟢 Status | 🔗 Links |
-|------------|---------------|----------------|:--------:|---------|
-| 🔐 **User Management API** | Enterprise-grade authentication and user management service featuring JWT authentication, role-based authorization, Redis-powered rate limiting, PostgreSQL persistence, and Dockerized deployment. | Java 21 • Spring Boot • PostgreSQL • Redis • Docker | 🟢 **Live** | [🌐 API](https://usermanagement-api-oowr.onrender.com) • [📂 Repository](https://github.com/kamaukavana-dev/UserManagement-API) |
-| 📦 **Catalog API** | Enterprise-grade product catalog and inventory platform supporting multi-warehouse management, optimistic locking, Redis caching, AWS S3 media storage, and production observability. | Java 21 • Spring Boot • PostgreSQL • Redis • AWS S3 • Docker | 🟢 **Live** | [🌐 API](https://catalog-api-4hon.onrender.com) • [📂 Repository](https://github.com/kamaukavana-dev/Catalog-Api) |
-| 📍 **Real-Time Phone Tracker** | Secure backend service for real-time phone location tracking, exposing REST APIs for live location updates, device monitoring, and tracking operations. Deployed on Railway. | Java • Spring Boot • Railway • REST API | 🟢 **Live** | [🌐 API](https://fastapi-production-9fb1.up.railway.app) • [📂 Repository](https://github.com/kamaukavana-dev/redmi-tracker) |
+🚀 7 Live Production Deployments
+⚙️ 3 Production Backend Services
+🌐 4 Public Web Applications
+☁️ Deployed on Render, Railway, and Vercel
+🛠️ Building with Java • Spring Boot • Python • FastAPI • React • Next.js • PostgreSQL • Redis • Docker • AWS S3
 
 
-## 📊 Production Overview
+🚀 Live Applications
 
-- 🚀 **7** Live Production Deployments
-- ⚙️ **3** Production Backend Services
-- 🌐 **4** Public Web Applications
-- ☁️ Deployed on **Render**, **Railway**, and **Vercel**
-- 🛠️ Built with **Java • Spring Boot • React • Next.js • PostgreSQL • Redis • Docker**
+Production-ready frontend applications demonstrating modern web development, responsive user experiences, and AI-powered solutions.
+
+🌐 Project📝 Description⚙️ Technologies🟢 Status🔗 Links🛒 Jibambe EcommerceModern ecommerce platform delivering responsive shopping experiences, intuitive product discovery, scalable UI architecture, and seamless customer interactions.React • Tailwind CSS • Vercel🟢 Live🌍 Launch👨‍💻 Personal PortfolioInteractive developer portfolio showcasing engineering projects, technical expertise, and immersive 3D experiences with modern animations.Next.js • React • Three.js • Tailwind CSS🟢 Live🌍 Launch🦷 Pearl Vista Dental ServicesProfessional healthcare platform delivering a polished digital presence, responsive design, and modern patient-focused experience.React • Tailwind CSS • Vercel🟢 Live🌍 Launch🇩🇪 German AI ChatbotAI-powered language learning assistant enabling conversational German practice with intelligent feedback and real-time AI interactions.React • Gemini API • AI🟢 Live🌍 Launch
+
+⚙️ Production Backend Services
+
+Cloud-deployed backend systems built with production-ready architecture, secure authentication, scalable persistence, caching, observability, and modern engineering practices.
+
+🚀 Service📝 Description⚙️ Technologies🟢 Status🔗 Links🔐 User Management APIEnterprise-grade identity and access management service implementing JWT authentication, role-based authorization, refresh tokens, Redis-powered distributed rate limiting, PostgreSQL persistence, Dockerized deployment, and production security best practices.Java 21 • Spring Boot • PostgreSQL • Redis • Docker • JWT • Swagger🟢 Live🌐 Live API • 📖 Swagger Docs • 📂 Repository📦 Catalog APIEnterprise-grade product catalog and inventory platform supporting multi-warehouse inventory management, optimistic locking, Redis caching, AWS S3 media storage, Flyway database migrations, structured observability, and scalable REST architecture.Java 21 • Spring Boot • PostgreSQL • Redis • AWS S3 • Docker • Flyway • Swagger🟢 Live🌐 Live API • 📖 Swagger Docs • 📂 Repository📍 Real-Time GPS Tracking PlatformProduction GPS tracking backend providing live device tracking, geofence management, automatic breach detection, Telegram push notifications, historical location analytics, scheduled background processing, secure API-key authentication, and cloud deployment.Python 3.12 • FastAPI • PostgreSQL • SQLAlchemy • APScheduler • Telegram Bot API • Railway🟢 Live🌐 Live Service • 📖 Swagger Docs • 📂 Repository
 ---
 
 # ⚙️ Tech Stack & Engineering Toolkit
