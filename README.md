@@ -135,28 +135,37 @@ done
 ```
 ---
 ## 📊 Production Overview
+
 - 🚀 **7** Live Production Deployments
 - ⚙️ **3** Production Backend Services
 - 🌐 **4** Public Web Applications
 - ☁️ Deployed on **Render**, **Railway**, and **Vercel**
 - 🛠️ Building with **Java • Spring Boot • Python • FastAPI • React • Next.js • PostgreSQL • Redis • Docker • AWS S3**
+
 ---
-# 🚀 Live Applications
+
+## 🚀 Live Applications
+
 > Production-ready frontend applications demonstrating modern web development, responsive user experiences, and AI-powered solutions.
+
 | 🌐 Project | 📝 Description | ⚙️ Technologies | 🟢 Status | 🔗 Links |
 |------------|---------------|----------------|:--------:|---------|
 | 🛒 **Jibambe Ecommerce** | Modern ecommerce platform delivering responsive shopping experiences, intuitive product discovery, scalable UI architecture, and seamless customer interactions. | React • Tailwind CSS • Vercel | 🟢 **Live** | [🌍 Launch](https://jibambe-ecommerce.vercel.app) |
 | 👨‍💻 **Personal Portfolio** | Interactive developer portfolio showcasing engineering projects, technical expertise, and immersive 3D experiences with modern animations. | Next.js • React • Three.js • Tailwind CSS | 🟢 **Live** | [🌍 Launch](https://personall-portfolio-kappa.vercel.app) |
 | 🦷 **Pearl Vista Dental Services** | Professional healthcare platform delivering a polished digital presence, responsive design, and modern patient-focused experience. | React • Tailwind CSS • Vercel | 🟢 **Live** | [🌍 Launch](https://pearl-vista-dental-services.vercel.app) |
 | 🇩🇪 **German AI Chatbot** | AI-powered language learning assistant enabling conversational German practice with intelligent feedback and real-time AI interactions. | React • Gemini API • AI | 🟢 **Live** | [🌍 Launch](https://german-chatbot.vercel.app) |
+
 ---
-# ⚙️ Production Backend Services
+
+## ⚙️ Production Backend Services
+
 > Cloud-deployed backend systems built with production-ready architecture, secure authentication, scalable persistence, caching, observability, and modern engineering practices.
+
 | 🚀 Service | 📝 Description | ⚙️ Technologies | 🟢 Status | 🔗 Links |
 |------------|---------------|----------------|:--------:|---------|
-| 🔐 **User Management API** | Enterprise-grade identity and access management service implementing JWT authentication, role-based authorization, refresh tokens, Redis-powered distributed rate limiting, PostgreSQL persistence, Dockerized deployment, and production security best practices. | Java 21 • Spring Boot • PostgreSQL • Redis • Docker • JWT • Swagger | 🟢 **Live** | [🌐 Live API](https://usermanagement-api-oowr.onrender.com) • [📖 Swagger Docs](https://usermanagement-api-oowr.onrender.com/api/v1/swagger-ui.html) • [📂 Repository](https://github.com/kamaukavana-dev/UserManagement-API) |
-| 📦 **Catalog API** | Enterprise-grade product catalog and inventory platform supporting multi-warehouse inventory management, optimistic locking, Redis caching, AWS S3 media storage, Flyway database migrations, structured observability, and scalable REST architecture. | Java 21 • Spring Boot • PostgreSQL • Redis • AWS S3 • Docker • Flyway • Swagger | 🟢 **Live** | [🌐 Live API](https://catalog-api-4hon.onrender.com) • [📖 Swagger Docs](https://catalog-api-4hon.onrender.com/swagger-ui.html) • [📂 Repository](https://github.com/kamaukavana-dev/Catalog-Api) |
-| 📍 **Real-Time GPS Tracking Platform** | Production GPS tracking backend featuring live device tracking, geofence monitoring, automatic breach detection, Telegram push notifications, historical location analytics, scheduled background processing, secure API-key authentication, and cloud deployment. | Python 3.12 • FastAPI • PostgreSQL • SQLAlchemy • APScheduler • Telegram Bot API • Railway | 🟢 **Live** | [🌐 Live Service](https://fastapi-production-9fb1.up.railway.app) • [📖 Swagger Docs](https://fastapi-production-9fb1.up.railway.app/docs) • [📂 Repository](https://github.com/kamaukavana-dev/redmi-tracker) |
+| 📦 **Catalog API** | Enterprise-grade product catalog and inventory platform supporting multi-warehouse inventory management, optimistic locking, Redis caching, AWS S3 media storage, Flyway database migrations, structured observability, and scalable REST architecture. | Java 21 • Spring Boot • PostgreSQL • Redis • AWS S3 • Docker • Flyway • Swagger | 🟢 **Live** | [🌐 Live API](https://catalog-api-4hon.onrender.com) • [📂 Repository](https://github.com/kamaukavana-dev/Catalog-Api) |
+| 🔐 **User Management API** | Enterprise-grade identity and access management service implementing JWT authentication, role-based authorization, refresh tokens, Redis-powered distributed rate limiting, PostgreSQL persistence, Dockerized deployment, and production security best practices. | Java 21 • Spring Boot • PostgreSQL • Redis • Docker • JWT • Swagger | 🟢 **Live** | [🌐 Live API](https://usermanagement-api-oowr.onrender.com) • [📂 Repository](https://github.com/kamaukavana-dev/UserManagement-API) |
+| 📍 **Real-Time GPS Tracking Platform** | Production GPS tracking backend featuring live device tracking, geofence monitoring, automatic breach detection, Telegram push notifications, historical location analytics, scheduled background processing, secure API-key authentication, and cloud deployment. | Python 3.12 • FastAPI • PostgreSQL • SQLAlchemy • APScheduler • Telegram Bot API • Railway | 🟢 **Live** | [🌐 Live Service](https://fastapi-production-9fb1.up.railway.app) • [📂 Repository](https://github.com/kamaukavana-dev/redmi-tracker) |
 ---
 
 # ⚙️ Tech Stack & Engineering Toolkit
