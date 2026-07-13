@@ -136,31 +136,27 @@ done
 ---
 ## 🚀 Live Applications
 
-> A selection of production deployments showcasing full-stack engineering, modern UI development, and AI-powered applications.
+> Production deployments showcasing modern frontend engineering, responsive user experiences, and AI-powered applications.
 
-| 🌐 Project | 📝 Description | ⚙️ Tech Stack | 🔗 Live |
-|------------|---------------|---------------|---------|
-| 🛒 **Jibambe Ecommerce** | Modern ecommerce platform featuring a responsive shopping experience and product management. | React • Tailwind CSS • Vercel | [Launch](https://jibambe-ecommerce.vercel.app) |
-| 👨‍💻 **Personal Portfolio** | Interactive developer portfolio highlighting projects, skills, and professional journey. | Next.js • React • Three.js • Tailwind CSS | [Launch](https://personall-portfolio-kappa.vercel.app) |
-| 🦷 **Pearl Vista Dental** | Professional website for a dental clinic with modern branding and service presentation. | React • Tailwind CSS • Vercel | [Launch](https://pearl-vista-dental-services.vercel.app) |
-| 🇩🇪 **German AI Chatbot** | AI-powered German language learning assistant with conversational practice and intelligent feedback. | React • AI • Gemini API | [Launch](https://german-chatbot.vercel.app) |
+| 🌐 Project | 📝 Description | ⚙️ Tech Stack | 🟢 Status | 🔗 Live |
+|------------|---------------|---------------|:--------:|---------|
+| 🛒 **Jibambe Ecommerce** | Modern ecommerce platform featuring a responsive shopping experience, intuitive product browsing, and scalable frontend architecture. | React • Tailwind CSS • Vercel | 🟢 **Live** | [Launch](https://jibambe-ecommerce.vercel.app) |
+| 👨‍💻 **Personal Portfolio** | Interactive developer portfolio showcasing projects, technical expertise, and software engineering journey with immersive 3D experiences. | Next.js • React • Three.js • Tailwind CSS | 🟢 **Live** | [Launch](https://personall-portfolio-kappa.vercel.app) |
+| 🦷 **Pearl Vista Dental Services** | Professional healthcare website delivering a modern digital presence with responsive design and service-focused user experience. | React • Tailwind CSS • Vercel | 🟢 **Live** | [Launch](https://pearl-vista-dental-services.vercel.app) |
+| 🇩🇪 **German AI Chatbot** | AI-powered language learning platform enabling conversational German practice with intelligent real-time feedback. | React • Gemini API • AI | 🟢 **Live** | [Launch](https://german-chatbot.vercel.app) |
 
 ---
 
-<p align="center">
-  <a href="https://jibambe-ecommerce.vercel.app">
-    <img src="https://img.shields.io/badge/Ecommerce-Live-success?style=for-the-badge&logo=vercel">
-  </a>
-  <a href="https://personall-portfolio-kappa.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel">
-  </a>
-  <a href="https://pearl-vista-dental-services.vercel.app">
-    <img src="https://img.shields.io/badge/Dental-Live-orange?style=for-the-badge&logo=vercel">
-  </a>
-  <a href="https://german-chatbot.vercel.app">
-    <img src="https://img.shields.io/badge/AI%20Chatbot-Live-purple?style=for-the-badge&logo=vercel">
-  </a>
-</p>
+## ⚙️ Production Backend Services
+
+> Enterprise-grade backend services designed with production-ready architecture, secure authentication, scalable persistence, caching, and cloud deployment.
+
+| 🚀 Service | 📝 Description | ⚙️ Tech Stack | 🟢 Status | 🔗 Live |
+|------------|---------------|---------------|:--------:|---------|
+| 🔐 **User Management API** | Production-grade authentication and user management service featuring JWT authentication, role-based authorization, Redis-powered rate limiting, PostgreSQL persistence, and Dockerized deployment. | Java 21 • Spring Boot • PostgreSQL • Redis • Docker | 🟢 **Live** | [API](https://usermanagement-api-oowr.onrender.com) • [Repository](https://github.com/kamaukavana-dev/UserManagement-API) |
+| 📦 **Catalog API** | Enterprise-grade catalog and inventory platform supporting multi-warehouse management, optimistic locking, Redis caching, AWS S3 media storage, and production observability. | Java 21 • Spring Boot • PostgreSQL • Redis • AWS S3 • Docker | 🟢 **Live** | [API](https://catalog-api-4hon.onrender.com) • [Repository](https://github.com/kamaukavana-dev/Catalog-Api) |
+| 📊 **GitHub README Tracker** | Automated backend service powering my GitHub profile by collecting repository analytics and exposing them through REST endpoints. Continuously deployed on Railway. | Java • Spring Boot • Railway • GitHub API | 🟢 **Live** | [Service](https://fastapi-production-9fb1.up.railway.app) • [Repository](https://github.com/kamaukavana-dev/redmi-tracker) |
+
 ---
 
 # ⚙️ Tech Stack & Engineering Toolkit
