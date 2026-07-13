@@ -155,6 +155,12 @@ done
 | 🦷 **Pearl Vista Dental Services** | Professional healthcare platform delivering a polished digital presence, responsive design, and modern patient-focused experience. | React • Tailwind CSS • Vercel | 🟢 **Live** | [🌍 Launch](https://pearl-vista-dental-services.vercel.app) |
 | 🇩🇪 **German AI Chatbot** | AI-powered language learning assistant enabling conversational German practice with intelligent feedback and real-time AI interactions. | React • Gemini API • AI | 🟢 **Live** | [🌍 Launch](https://german-chatbot.vercel.app) |
 
+
+> ### 🔒 Architecture & Security
+>
+> - **Minimal Public Surface:** The public **Live API (Secure Probe)** endpoint intentionally exposes only a lightweight health response (`ok`) to verify service availability without revealing operational details.
+> - **Protected Management Endpoints:** Internal diagnostics, metrics, and management endpoints are isolated from the public interface and reserved for operational monitoring, reducing unnecessary exposure of infrastructure details.
+
 ---
 
 ## ⚙️ Production Backend Services
