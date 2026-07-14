@@ -134,13 +134,6 @@ done
 #   needs DATABASE_URL + TELEGRAM_BOT_TOKEN in .env → uvicorn main:app --reload
 ```
 ---
-## 📊 Production Overview
-
-- 🚀 **7** Live Production Deployments
-- ⚙️ **3** Production Backend Services
-- 🌐 **4** Public Web Applications
-- ☁️ Deployed on **Render**, **Railway**, and **Vercel**
-- 🛠️ Building with **Java • Spring Boot • Python • FastAPI • React • Next.js • PostgreSQL • Redis • Docker • AWS S3**
 
 ---
 
