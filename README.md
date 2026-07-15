@@ -55,8 +55,7 @@ const aspiringEngineer = {
 };
 ```
 ---
----
-# 🌀 Developer Ecosystem & Analytics
+### 🌀 Developer Ecosystem & Analytics
 
 <div align="center">
 
@@ -88,7 +87,7 @@ const aspiringEngineer = {
 </div>
 
 ---
-  ## Connect & Collaborate 📱
+  ### Connect & Collaborate 📱
 
 <div align="center">
 
@@ -131,8 +130,6 @@ done
 # redmi-tracker (FastAPI): python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt
 #   needs DATABASE_URL + TELEGRAM_BOT_TOKEN in .env → uvicorn main:app --reload
 ```
----
-
 ---
 
 ## 🚀 Live Applications
