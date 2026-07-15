@@ -55,7 +55,7 @@ const aspiringEngineer = {
 };
 ```
 ---
-### 🌀 Developer Ecosystem & Analytics
+## 🌀 Developer Ecosystem & Analytics
 
 <div align="center">
 
@@ -87,7 +87,7 @@ const aspiringEngineer = {
 </div>
 
 ---
-  ### Connect & Collaborate 📱
+### Connect & Collaborate 📱
 
 <div align="center">
 
