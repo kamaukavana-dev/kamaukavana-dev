@@ -76,9 +76,6 @@ const aspiringEngineer = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Streak" />
 
 <br><br>
-
-# 📊 Profile Analytics
-
 <img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
 
 <img src="https://img.shields.io/github/followers/kamaukavana-dev?label=FOLLOWERS&style=for-the-badge&color=2563EB" />
