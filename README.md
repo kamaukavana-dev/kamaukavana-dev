@@ -55,7 +55,7 @@ const aspiringEngineer = {
 };
 ```
 ---
-## 🌀 Developer Ecosystem & Analytics
+# 🌀 Developer Ecosystem & Analytics
 
 <div align="center">
 
