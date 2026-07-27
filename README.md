@@ -217,7 +217,7 @@ done
 
 I strive to build software that is scalable, maintainable, and understandable—not merely functional.
 
-© 2026 Daniel Maina  | Aspiring Software Engineer  
+© 2026 Daniel Maina  | Aspiring Software $ Devops Engineer  
 Nairobi, Kenya 🇰🇪 🇰🇪
 
 
