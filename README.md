@@ -57,33 +57,28 @@ const aspiringEngineer = {
 ---
 # 🌀 Developer Ecosystem & Analytics
 <div align="center">
-<!-- Contribution Streak -->
-<img src="https://streak-stats.demolab.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Streak" />
-
+<!-- Streak stats -->
+<img src="https://streak-stats.demolab.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" width="100%" />
+<br>
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev&theme=react-dark&hide_border=true&area=true" width="100%" />
 <br><br>
-
 <!-- Top Languages by Repo / by Commit, side by side -->
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamaukavana-dev&theme=github_dark" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamaukavana-dev&theme=github_dark" />
 <br>
-
 <!-- Octocat stats card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamaukavana-dev&theme=github_dark" />
 <br><br>
-
 <!-- Contribution Snake, alone -->
 <a href="https://kamaukavana-dev.github.io/github-visualizer/" target="_blank">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </a>
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/kamaukavana-dev?label=FOLLOWERS&style=for-the-badge&color=2563EB" />
 <img src="https://img.shields.io/github/stars/kamaukavana-dev?label=TOTAL%20STARS&style=for-the-badge&color=2563EB" />
 <img src="https://img.shields.io/github/last-commit/kamaukavana-dev/kamaukavana-dev?label=PROFILE%20UPDATED&style=for-the-badge&color=2563EB" />
-
 </div>
 
 ---
