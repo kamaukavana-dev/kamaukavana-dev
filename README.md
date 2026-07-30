@@ -58,9 +58,12 @@ const aspiringEngineer = {
 # 🌀 Developer Ecosystem & Analytics
 <div align="center">
 
-<!-- Streak stats + Activity Graph, side by side -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev&theme=react-dark&hide_border=true&area=true" />
+<!-- Streak stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" width="100%" />
+<br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev&theme=react-dark&hide_border=true&area=true" width="100%" />
 <br><br>
 
 <!-- Top Languages by Repo / by Commit, side by side -->
