@@ -58,9 +58,8 @@ const aspiringEngineer = {
 # 🌀 Developer Ecosystem & Analytics
 <div align="center">
 
-<!-- Rank card + Streak stats, side by side -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamaukavana-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" />
+<!-- Streak stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" width="100%" />
 <br><br>
 
 <!-- Top Languages by Repo / by Commit, side by side -->
@@ -72,14 +71,11 @@ const aspiringEngineer = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamaukavana-dev&theme=github_dark" />
 <br><br>
 
-<!-- Contribution Snake -->
+<!-- Snake + Activity Graph, side by side -->
 <a href="https://kamaukavana-dev.github.io/github-visualizer/" target="_blank">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img width="49%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </a>
-<br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev&theme=react-dark&hide_border=true&area=true" width="100%" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev&theme=react-dark&hide_border=true&area=true" />
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
