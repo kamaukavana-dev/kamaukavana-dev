@@ -90,8 +90,6 @@ const aspiringEngineer = {
 
 </div>
 ---
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamaukavana-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" />
 ### Connect & Collaborate 📱
 
 <div align="center">
