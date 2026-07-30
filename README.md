@@ -91,6 +91,8 @@ const aspiringEngineer = {
 </div>
 
 ---
+<img src="https://img.shields.io/github/stars/kamaukavana-dev?style=for-the-badge&color=2563EB" />
+<img src="https://img.shields.io/github/languages/top/kamaukavana-dev/YOUR-REPO?style=for-the-badge&color=2563EB" />
 
 
 ### Connect & Collaborate 📱
