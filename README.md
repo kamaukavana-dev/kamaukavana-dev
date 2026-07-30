@@ -91,22 +91,7 @@ const aspiringEngineer = {
 </div>
 
 ---
-<!-- Top Languages by Repo / by Commit + Stats card (pie donuts + octocat) -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamaukavana-dev&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamaukavana-dev&theme=github_dark" />
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamaukavana-dev&theme=github_dark" />
-<br><br>
 
-<!-- Rank card: A+ circle, Total PRs, Stars, Commits, Issues -->
-<img src="https://github-readme-stats.vercel.app/api?username=kamaukavana-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/kamaukavana-dev?label=FOLLOWERS&style=for-the-badge&color=2563EB" />
-<img src="https://img.shields.io/github/stars/kamaukavana-dev?label=TOTAL%20STARS&style=for-the-badge&color=2563EB" />
-<img src="https://img.shields.io/github/last-commit/kamaukavana-dev/kamaukavana-dev?label=PROFILE%20UPDATED&style=for-the-badge&color=2563EB" />
-</div>
 
 ### Connect & Collaborate 📱
 
