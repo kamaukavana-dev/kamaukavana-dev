@@ -58,6 +58,20 @@ const aspiringEngineer = {
 # 🌀 Developer Ecosystem & Analytics
 <div align="center">
 
+<!-- Rank card + Streak stats, side by side -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamaukavana-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<!-- Top Languages by Repo / by Commit, side by side -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamaukavana-dev&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamaukavana-dev&theme=github_dark" />
+<br>
+
+<!-- Octocat stats card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamaukavana-dev&theme=github_dark" />
+<br><br>
+
 <!-- Contribution Snake -->
 <a href="https://kamaukavana-dev.github.io/github-visualizer/" target="_blank">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -66,21 +80,6 @@ const aspiringEngineer = {
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev&theme=react-dark&hide_border=true&area=true" width="100%" />
-<br>
-
-<!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Streak" />
-<br><br>
-
-<!-- Top Languages by Repo / by Commit + Stats card (pie donuts + octocat) -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamaukavana-dev&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamaukavana-dev&theme=github_dark" />
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamaukavana-dev&theme=github_dark" />
-<br><br>
-
-<!-- Rank card: A+ circle, Total PRs, streak flame, commits-by-hour -->
-<img src="https://github-readme-stats.vercel.app/api?username=kamaukavana-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=kamaukavana-dev&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
@@ -91,8 +90,6 @@ const aspiringEngineer = {
 </div>
 
 ---
-<img src="https://img.shields.io/github/stars/kamaukavana-dev?style=for-the-badge&color=2563EB" />
-<img src="https://img.shields.io/github/languages/top/kamaukavana-dev/YOUR-REPO?style=for-the-badge&color=2563EB" />
 
 
 ### Connect & Collaborate 📱
