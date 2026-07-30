@@ -58,7 +58,7 @@ const aspiringEngineer = {
 # 🌀 Developer Ecosystem & Analytics
 <div align="center">
 <!-- Streak stats -->
-https://streak-stats.demolab.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true
+<img src="https://streak-stats.demolab.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true&cache_bust=1" width="100%" />
 <br>
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev&theme=react-dark&hide_border=true&area=true" width="100%" />
