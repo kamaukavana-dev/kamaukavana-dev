@@ -63,7 +63,7 @@ const aspiringEngineer = {
 <!-- Activity Graph -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph-henna-ten.vercel.app/graph?username=kamaukavana-dev"
+    src="https://github-readme-activity-graph-henna-ten.vercel.app/graph?username=kamaukavana-dev&theme=react-dark&hide_border=true&area=true"
     alt="GitHub Activity Graph"
     width="100%"
   />
