@@ -60,9 +60,10 @@ const aspiringEngineer = {
 <!-- Streak stats -->
 <img src="https://streak-stats.demolab.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true&cache_bust=1" width="100%" />
 <br>
+<!-- Activity Graph -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev"
+    src="https://github-readme-activity-graph-henna-ten.vercel.app/graph?username=kamaukavana-dev"
     alt="GitHub Activity Graph"
     width="100%"
   />
