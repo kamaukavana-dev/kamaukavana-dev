@@ -60,12 +60,11 @@ const aspiringEngineer = {
 <!-- Streak stats -->
 <img src="https://streak-stats.demolab.com/?user=kamaukavana-dev&theme=tokyonight&hide_border=true&cache_bust=1" width="100%" />
 <br>
-<!-- GitHub Activity Graph -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev&theme=react-dark&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kamaukavana-dev"
+    alt="GitHub Activity Graph"
     width="100%"
-    alt="Daniel Maina's GitHub Activity Graph"
   />
 </p>
 <!-- Top Languages by Repo / by Commit, side by side -->
