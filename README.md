@@ -133,10 +133,7 @@ done
 #   needs DATABASE_URL + TELEGRAM_BOT_TOKEN in .env → uvicorn main:app --reload
 ```
 ---
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kamaukavana-dev&theme=onedark&column=7&row=3&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kamaukavana-dev&theme=onedark&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=kamaukavana-dev&theme=onedark&title=Followers,Commits,Repositories&column=3&margin-w=15)](https://github.com/kamaukavana-dev)
 
 ## 🚀 Live Applications
 
