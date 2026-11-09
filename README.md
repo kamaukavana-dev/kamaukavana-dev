@@ -136,6 +136,8 @@ done
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kamaukavana-dev&theme=onedark&column=7&row=3&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kamaukavana-dev&theme=onedark&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🚀 Live Applications
 
 > Production-ready frontend applications demonstrating modern web development, responsive user experiences, and AI-powered solutions.
